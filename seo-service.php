@@ -49,36 +49,34 @@
     </section>
 
     <!-- Stats section -->
-    <section class="ss-stats-section section-gap">
+    <section class="ss-stats-section">
         <div class="container">
-            <div class="ss-stats-wrap">
-                <div class="row g-0">
-                    <div class="col-md-3 col-12">
-                        <div class="ss-stat-item">
-                            <h2>500+</h2>
-                            <p>SEO campaigns managed</p>
-                        </div>
+            <div class="row g-0">
+                <div class="col-md-3 col-12">
+                    <div class="ss-stat-item">
+                        <h2>500+</h2>
+                        <p>SEO campaigns managed</p>
                     </div>
+                </div>
 
-                    <div class="col-md-3 col-12">
-                        <div class="ss-stat-item">
-                            <h2>95M+</h2>
-                            <p>Organic visitors driven</p>
-                        </div>
+                <div class="col-md-3 col-12">
+                    <div class="ss-stat-item">
+                        <h2>95M+</h2>
+                        <p>Organic visitors driven</p>
                     </div>
+                </div>
 
-                    <div class="col-md-3 col-12">
-                        <div class="ss-stat-item">
-                            <h2>1.2M+</h2>
-                            <p>Organic conversions generated</p>
-                        </div>
+                <div class="col-md-3 col-12">
+                    <div class="ss-stat-item">
+                        <h2>1.2M+</h2>
+                        <p>Organic conversions generated</p>
                     </div>
+                </div>
 
-                    <div class="col-md-3 col-12">
-                        <div class="ss-stat-item">
-                            <h2>98%</h2>
-                            <p>Client satisfaction rate</p>
-                        </div>
+                <div class="col-md-3 col-12">
+                    <div class="ss-stat-item">
+                        <h2>98%</h2>
+                        <p>Client satisfaction rate</p>
                     </div>
                 </div>
             </div>
@@ -86,13 +84,13 @@
     </section>
     <!-- Stats section End -->
 
-    <!-- Real Growth SECTION -->
+    <!-- Trusted by Brands SECTION -->
 
 
-    <?php include_once 'assets/include/trusted-brands.php';?>
+    <?php include 'assets/include/brands-loop.php'; ?>
 
 
-    <!-- Real Growth SECTION END -->
+    <!-- Trusted by Brands SECTION End -->
 
 
     <!-- Is Your Business Struggling to SECTION -->
