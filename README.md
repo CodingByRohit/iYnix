@@ -3,31 +3,31 @@
 This is the iYnix project repository. It contains web application files organized in the following structure:
 
 - `index.php` - Main entry point
-- `homepage/` - Homepage directory
-  - `assets/` - Bootstrap assets
+- `assets/` - Site-wide assets (used by every page, not just the homepage)
+  - `vendor/` - Third-party libraries
     - `css/` - Bootstrap CSS files
     - `js/` - Bootstrap JavaScript files
   - `css/` - Custom stylesheets
   - `images/` - Image assets
     - `icons/` - Icon files
   - `include/` - PHP includes
-  - `js/` - Custom JavaScript files
+  - `services-img/` - Images used on the services page
 
 ## Project Structure
 
 ```
 iYnix/
 ├── index.php
+├── services.php
 ├── README.md
-└── homepage/
-    ├── assets/
+└── assets/
+    ├── vendor/
     │   ├── css/
     │   └── js/
     ├── css/
     ├── images/
-    │   └── icons/
-    ├── include/
-    └── js/
+    ├── services-img/
+    └── include/
 ```
 
 ## Setup

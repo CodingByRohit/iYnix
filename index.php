@@ -7,10 +7,10 @@
     <title>Digital Marketing Agency in the USA | Get More Leads</title>
     <meta name="description"
         content="Tired of empty promises? We help US businesses get more leads & 2x-3x revenue growth through SEO, Google Ads & smart digital marketing.">
-    <link href="homepage/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="homepage/css/font-size.css">
-    <link rel="stylesheet" href="homepage/css/custom.css">
+    <link rel="stylesheet" href="assets/css/font-size.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -124,7 +124,7 @@
     <!-- End Google Tag Manager (noscript) -->
 
 
-    <?php include_once 'homepage/include/navbar.php';?>
+    <?php include_once 'assets/include/navbar.php';?>
 
 
     <!--<main style="margin-top: 90px;">-->
@@ -133,7 +133,7 @@
 
             <div class="container d-flex flex-column justify-content-center hero-banner-text">
                 <a href="javascript:void(0)"><button class="btn btn-primary accent"><img
-                            src="homepage/images/icons/lightning.svg" alt=""> AI-Driven Digital Marketing
+                            src="assets/images/icons/lightning.svg" alt=""> AI-Driven Digital Marketing
                         Services</button></a>
                 <h1 class="mt-4 my-3 dt text-light">
                     Empowering Businesses with <span class="text-crimson">Predictable Leads</span> and Revenue
@@ -155,21 +155,21 @@
 
                         <div class="ban-sl-row ban-sl-left ban-sl-row-top">
 
-                            <img src="homepage/images/carousal/hero-carousal-a1.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a2.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a3.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a4.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a5.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a6.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a1.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a2.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a3.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a4.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a5.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a6.png" class="ban-sl-img">
 
                             <!-- duplicate -->
 
-                            <img src="homepage/images/carousal/hero-carousal-a1.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a2.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a3.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a4.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a5.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-a6.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a1.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a2.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a3.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a4.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a5.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-a6.png" class="ban-sl-img">
 
                         </div>
 
@@ -178,21 +178,21 @@
 
                         <div class="ban-sl-row ban-sl-right">
 
-                            <img src="homepage/images/carousal/hero-carousal-b1.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b2.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b3.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b4.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b5.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b6.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b1.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b2.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b3.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b4.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b5.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b6.png" class="ban-sl-img">
 
                             <!-- duplicate -->
 
-                            <img src="homepage/images/carousal/hero-carousal-b1.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b2.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b3.jpg" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b4.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b5.png" class="ban-sl-img">
-                            <img src="homepage/images/carousal/hero-carousal-b6.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b1.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b2.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b3.jpg" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b4.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b5.png" class="ban-sl-img">
+                            <img src="assets/images/carousal/hero-carousal-b6.png" class="ban-sl-img">
 
                         </div>
 
@@ -216,22 +216,22 @@
 
                 <!-- ITEMS -->
                 <div class="hs-b-loop-item">
-                    <img src="homepage/images/icons/clock.svg" alt="">
+                    <img src="assets/images/icons/clock.svg" alt="">
                     Clients Served in 10+ Countries
                 </div>
 
                 <div class="hs-b-loop-item">
-                    <img src="homepage/images/icons/clock.svg" alt="">
+                    <img src="assets/images/icons/clock.svg" alt="">
                     3+ Years of Hands-on Experience
                 </div>
 
                 <div class="hs-b-loop-item">
-                    <img src="homepage/images/icons/clock.svg" alt="">
+                    <img src="assets/images/icons/clock.svg" alt="">
                     Hundreds of Qualified Leads Generated
                 </div>
 
                 <div class="hs-b-loop-item">
-                    <img src="homepage/images/icons/clock.svg" alt="">
+                    <img src="assets/images/icons/clock.svg" alt="">
                     Proven Results Across Multiple Industries
                 </div>
 
@@ -279,14 +279,14 @@
 
                 <div class="col-md-6">
                     <div class="hs-c-smart-card sbg-gray">
-                        <img src="homepage/images/icons/double-arrow.svg" alt="">
+                        <img src="assets/images/icons/double-arrow.svg" alt="">
                         <h4 class="fw-semibold mt-3">Get Consistent High-Quality Leads</h4>
                     </div>
                 </div>
 
                 <div class="col-md-6">
                     <div class="hs-c-smart-card sbg-gray">
-                        <img src="homepage/images/icons/double-arrow.svg" alt="">
+                        <img src="assets/images/icons/double-arrow.svg" alt="">
                         <h4 class="fw-semibold mt-3">Get 2x-3x Revenue Growth</h4>
                     </div>
                 </div>
@@ -336,24 +336,24 @@
 
                 <div class="hs-d-logo-track" id="hs-d-track">
 
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-01.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-02.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-03.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-04.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-05a.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-06a.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-07.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-08.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-09.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-10.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-11.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-12.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-13.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-14a.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-16.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-17.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-18.png"></div>
-                    <div class="hs-d-logo-item"><img src="homepage/images/logos/logos-19.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-01.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-02.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-03.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-04.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-05a.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-06a.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-07.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-08.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-09.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-10.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-11.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-12.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-13.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-14a.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-16.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-17.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-18.png"></div>
+                    <div class="hs-d-logo-item"><img src="assets/images/logos/logos-19.png"></div>
 
                 </div>
 
@@ -395,280 +395,20 @@
     </section> -->
 
     
-    <?php include_once 'homepage/include/trusted-brands.php';?>
+    <?php include_once 'assets/include/trusted-brands.php';?>
 
 
     <!-- Real Growth SECTION END -->
 
 
 
+
     <!-- Testimonials SECTION -->
-<!-- 
-    <section class="hs-e-smart-section">
-
-        <div class="container text-center">
-
-            <h2 class="hs-e-smart-title mb-3 fw-semibold text-black">
-                What Our
-                <span class="text-crimson">Clients Say?</span>
-            </h2>
-
-            <p class="hs-e-smart-sub text-black">
-                Reviews from our satisfied clients
-            </p>
-
-            <div class="container">
-                <div id="featurable-eb15ff0a-776d-4616-b161-906006f6c6c9" data-featurable-async></div>
-                <script src="https://featurable.com/assets/v2/carousel_default.min.js" defer charset="UTF-8"></script>
-            </div>
-
-        </div>
-
-    </section> -->
-
-    
-<section class="rev-slider-section section-gap-top">
-    <div class="container">
-
-            <h2 class="mb-3 fw-semibold text-black text-center">
-                What Our
-                <span class="text-crimson">Clients Say?</span>
-            </h2>
-
-            <p class="text-black text-center">
-                Reviews from our satisfied clients
-            </p>
-
-
-    <div class="rev-slider mt-5">
-
-        <button class="rev-arrow rev-prev">
-            <img src="homepage/images/services/slider-left.svg" alt="">
-        </button>
-        <button class="rev-arrow rev-next">
-            <img src="homepage/images/services/slider-right.svg" alt="">
-        </button>
-
-        <div class="rev-viewport">
-            <div class="rev-track">
-
-                <!-- CARDS -->
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">If you are looking for the best digital marketing services, look no further than iYnix Digital. They have a perfect 5.0 rating for a reason. They handled our website and marketing campaigns seamlessly, and the ROI has been fantastic. Highly recommend them to anyone looking to scale their brand
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Deepak Kumar</span>
-                </div>
-
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">Iynix Digital is a results-driven digital marketing service providing SEO, website design, and website development solutions. The team focuses on delivering visually appealing, user-friendly, and high-performance digital experiences that help businesses grow online. With a strategic and professional approach, Iynix Digital ensures reliable and effective results tailored to client needs.
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Divya Gupta</span>
-                </div>
-
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">iYnix Digital provided excellent digital and web development services. The team was professional, responsive, and delivered quality work on time. Communication was smooth throughout. Highly recommended for reliable digital solutions.
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Khushi Sahni</span>
-                </div>
-
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">Excellent marketing agency to grow your brand digitally. We had a great experience working with them.</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Gunjan Nagpal</span>
-                </div>
-
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">I've had a great experience working with Iynix, They’re highly responsive, knowledgeable, and truly care about delivering results. My website looks amazing and their marketing strategies have helped me attract more customers. Highly recommend!
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Het Patel</span>
-                </div>
-
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">My experience with iYnix Digital was excellent. Their team is extremely skilled in digital solutions and website development, and their responses are also very professional and quick to respond. They delivered excellent work on schedule and had a clear understanding of my needs. Throughout the entire process, communication was seamless. Strongly advised for anyone searching for reliable internet services.
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Akash Kumar</span>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-</div>
-
-</section>
-
-<style>
-.rev-slider {
-    position: relative;
-    padding: 0 60px;
-}
-
-.rev-viewport {
-    overflow: hidden;
-    padding: 20px 0;
-}
-
-.rev-track {
-    display: flex;
-    gap: 20px;
-    transition: transform 0.5s ease;
-    will-change: transform;
-    padding: 10px 0;
-}
-
-.rev-card {
-    flex: 0 0 calc((100% - 40px) / 3);
-    padding: 32px;
-    transition: transform 0.4s ease, background 0.3s ease, color 0.3s ease;
-    position: relative;
-    z-index: 1;
-    border-radius: 20px;
-    border: 1px solid #DEDEDE;
-    background: #FFF;
-    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
-}
-
-.rev-card img{
-    max-width: 180px;
-}
-
-.rev-card.is-active {
-    background: #F6F6F6;
-    transform: scale(1.1);
-    z-index: 3;
-}
-
-.rev-arrow {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 38px;
-    height: 38px;
-    border-radius: 8px;
-    border: 1px solid #DEDEDE;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
-    background: transparent;
-    z-index: 5;
-    cursor: pointer;
-}
-
-.rev-prev { left: -10px; }
-.rev-next { right: -10px; }
-
-@media (max-width: 991px) {
-    .rev-card {
-        flex: 0 0 calc((100% - 20px) / 2);
-    }
-
-    .rev-card.is-active {
-        transform: scale(1);
-    }
-}
-
-@media (max-width: 767px) {
-    .rev-slider {
-        padding: 0 10px;
-    }
-
-    .rev-card {
-        flex: 0 0 100%;
-    }
-}
-</style>
-
-<script>
-(function () {
-    const sliders = document.querySelectorAll('.rev-slider');
-
-    sliders.forEach((slider) => {
-
-        const track = slider.querySelector('.rev-track');
-        const prev = slider.querySelector('.rev-prev');
-        const next = slider.querySelector('.rev-next');
-
-        let cards = Array.from(track.children);
-
-        function getVisible() {
-            if (window.innerWidth < 768) return 1;
-            if (window.innerWidth < 992) return 2;
-            return 3;
-        }
-
-        let visible = getVisible();
-
-        // CLONE FOR LOOP (scoped per slider)
-        cards.slice(-visible).forEach(el => {
-            track.insertBefore(el.cloneNode(true), track.firstChild);
-        });
-
-        cards.slice(0, visible).forEach(el => {
-            track.appendChild(el.cloneNode(true));
-        });
-
-        let allCards = Array.from(track.children);
-        let index = visible;
-
-        function update() {
-            const gap = 20;
-            const cardWidth = allCards[0].getBoundingClientRect().width + gap;
-            track.style.transform = `translateX(-${index * cardWidth}px)`;
-
-            allCards.forEach(c => c.classList.remove('is-active'));
-
-            const center = index + Math.floor((getVisible() - 1) / 2);
-            if (allCards[center]) {
-                allCards[center].classList.add('is-active');
-            }
-        }
-
-        function nextSlide() {
-            index++;
-            track.style.transition = 'transform 0.5s ease';
-            update();
-
-            if (index >= allCards.length - visible) {
-                setTimeout(() => {
-                    track.style.transition = 'none';
-                    index = visible;
-                    update();
-                }, 500);
-            }
-        }
-
-        function prevSlide() {
-            index--;
-            track.style.transition = 'transform 0.5s ease';
-            update();
-
-            if (index <= 0) {
-                setTimeout(() => {
-                    track.style.transition = 'none';
-                    index = allCards.length - (visible * 2);
-                    update();
-                }, 500);
-            }
-        }
-
-        next.addEventListener('click', nextSlide);
-        prev.addEventListener('click', prevSlide);
-
-        window.addEventListener('resize', () => {
-            visible = getVisible();
-            update();
-        });
-
-        window.addEventListener('load', update);
-
-    });
-})();
-</script>
-
-
+    <?php
+    $testimonials_heading = 'What Our Clients Say?';
+    include 'assets/include/testimonials.php';
+    unset($testimonials_heading);
+    ?>
     <!-- Testimonials SECTION End -->
 
 
@@ -692,7 +432,7 @@
                     </div>
                 </div>
                 <div class="container hs-f-image p-0">
-                    <img src="homepage/images/office-high-five.png" class="img-fluid" alt="">
+                    <img src="assets/images/office-high-five.png" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -736,13 +476,13 @@
             <!-- Branding Grid -->
             <div class="hs-g-content container" id="branding">
                 <div class="row g-4">
-                    <div class="col-md-6"><img src="homepage/images/portfolio-branding-g.png" class="hs-g-img">
+                    <div class="col-md-6"><img src="assets/images/portfolio-branding-g.png" class="hs-g-img">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-branding-h.png" class="hs-g-img">
+                    <div class="col-md-6"><img src="assets/images/portfolio-branding-h.png" class="hs-g-img">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-branding-i.png" class="hs-g-img">
+                    <div class="col-md-6"><img src="assets/images/portfolio-branding-i.png" class="hs-g-img">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-branding-j.png" class="hs-g-img">
+                    <div class="col-md-6"><img src="assets/images/portfolio-branding-j.png" class="hs-g-img">
                     </div>
                 </div>
             </div>
@@ -753,13 +493,13 @@
                 <div class="hs-g-carousel">
                     <div class="hs-g-track" id="hs-g-track">
 
-                        <img src="homepage/images/carousal/mockup-01.png" class="hs-g-img">
-                        <img src="homepage/images/carousal/mockup-07.png" class="hs-g-img">
-                        <img src="homepage/images/carousal/mockup-03.png" class="hs-g-img">
-                        <img src="homepage/images/carousal/mockup-04.png" class="hs-g-img">
-                        <img src="homepage/images/carousal/mockup-05.png" class="hs-g-img">
-                        <img src="homepage/images/carousal/mockup-06.png" class="hs-g-img">
-                        <img src="homepage/images/carousal/mockup-08.png" class="hs-g-img">
+                        <img src="assets/images/carousal/mockup-01.png" class="hs-g-img">
+                        <img src="assets/images/carousal/mockup-07.png" class="hs-g-img">
+                        <img src="assets/images/carousal/mockup-03.png" class="hs-g-img">
+                        <img src="assets/images/carousal/mockup-04.png" class="hs-g-img">
+                        <img src="assets/images/carousal/mockup-05.png" class="hs-g-img">
+                        <img src="assets/images/carousal/mockup-06.png" class="hs-g-img">
+                        <img src="assets/images/carousal/mockup-08.png" class="hs-g-img">
 
                     </div>
                 </div>
@@ -769,22 +509,22 @@
             <!-- UI UX Grid -->
             <div class="hs-g-content container" id="ui">
                 <div class="row g-4">
-                    <div class="col-md-6"><img src="homepage/images/portfolio-uiux-g.png" class="hs-g-img"
+                    <div class="col-md-6"><img src="assets/images/portfolio-uiux-g.png" class="hs-g-img"
                             style="box-shadow: 0 4px 14px 0 rgba(145, 145, 145, 0.25);">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-uiux-h.png" class="hs-g-img"
+                    <div class="col-md-6"><img src="assets/images/portfolio-uiux-h.png" class="hs-g-img"
                             style="box-shadow: 0 4px 14px 0 rgba(145, 145, 145, 0.25);">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-uiux-i.png" class="hs-g-img"
+                    <div class="col-md-6"><img src="assets/images/portfolio-uiux-i.png" class="hs-g-img"
                             style="box-shadow: 0 4px 14px 0 rgba(145, 145, 145, 0.25);">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-uiux-j.png" class="hs-g-img"
+                    <div class="col-md-6"><img src="assets/images/portfolio-uiux-j.png" class="hs-g-img"
                             style="box-shadow: 0 4px 14px 0 rgba(145, 145, 145, 0.25);">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-uiux-k.png" class="hs-g-img"
+                    <div class="col-md-6"><img src="assets/images/portfolio-uiux-k.png" class="hs-g-img"
                             style="box-shadow: 0 4px 14px 0 rgba(145, 145, 145, 0.25);">
                     </div>
-                    <div class="col-md-6"><img src="homepage/images/portfolio-uiux-l.png" class="hs-g-img"
+                    <div class="col-md-6"><img src="assets/images/portfolio-uiux-l.png" class="hs-g-img"
                             style="box-shadow: 0 4px 14px 0 rgba(145, 145, 145, 0.25);">
                     </div>
                 </div>
@@ -900,7 +640,7 @@
 
             </div>
             <div class="container text-center mt-5">
-                <img src="homepage/images/icons/arrow-down.svg" alt="">
+                <img src="assets/images/icons/arrow-down.svg" alt="">
                 <p class="fw-bold text-black mt-4">
                     But now, you don't have to worry anymore.
                     <span class="text-crimson">We're here to help you!</span>
@@ -928,7 +668,7 @@
                 <div class="col-lg-6">
 
                     <div class="hs-i-tag mb-3 p-xsm fw-medium text-crimson">
-                        <img src="homepage/images/icons/circle.svg" alt=""> LEAD GENERATION
+                        <img src="assets/images/icons/circle.svg" alt=""> LEAD GENERATION
                     </div>
 
                     <h2 class="hs-i-title text-black fw-semibold">
@@ -956,7 +696,7 @@
                 <div class="col-lg-6">
 
                     <div class="hs-i-img-card">
-                        <img src="homepage/images/Qualified-Leads.png" class="img-fluid">
+                        <img src="assets/images/Qualified-Leads.png" class="img-fluid">
                     </div>
 
                 </div>
@@ -973,7 +713,7 @@
                 <div class="col-lg-6">
 
                     <div class="hs-i-img-card">
-                        <img src="homepage/images/Grow-Your-Revenue.png" class="img-fluid">
+                        <img src="assets/images/Grow-Your-Revenue.png" class="img-fluid">
                     </div>
 
                 </div>
@@ -982,7 +722,7 @@
                 <div class="col-lg-6 ps-3 ps-lg-5">
 
                     <div class="hs-i-tag mb-3 p-xsm fw-medium text-crimson">
-                        <img src="homepage/images/icons/circle.svg" alt=""> REVENUE GROWTH
+                        <img src="assets/images/icons/circle.svg" alt=""> REVENUE GROWTH
                     </div>
 
                     <h2 class="hs-i-title text-black fw-semibold">
@@ -1037,7 +777,7 @@
                 <!-- CARD 1 -->
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
-                        <div class="hs-j-icon mb-5"><img src="homepage/images/icons/bulb.svg" alt=""></div>
+                        <div class="hs-j-icon mb-5"><img src="assets/images/icons/bulb.svg" alt=""></div>
                         <h5 class="p-xsm hs-j-card-title fw-bold">We Understand Your Business First!</h5>
                         <p class="p-xsm fw-light text-black">We first learn about your goals, audience, and
                             competition.</p>
@@ -1047,7 +787,7 @@
                 <!-- CARD 2 -->
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
-                        <div class="hs-j-icon mb-5"><img src="homepage/images/icons/target.svg" alt=""></div>
+                        <div class="hs-j-icon mb-5"><img src="assets/images/icons/target.svg" alt=""></div>
                         <h5 class="p-xsm hs-j-card-title fw-bold">Then, We Build a Clear Strategy For You!</h5>
                         <p class="p-xsm fw-light text-black">No guesswork. We create a custom plan based on
                             prior data and experience.</p>
@@ -1057,7 +797,7 @@
                 <!-- CARD 3 -->
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
-                        <div class="hs-j-icon mb-5"><img src="homepage/images/icons/rocket.svg" alt=""></div>
+                        <div class="hs-j-icon mb-5"><img src="assets/images/icons/rocket.svg" alt=""></div>
                         <h5 class="p-xsm hs-j-card-title fw-bold">Now is the Time To Execute & Optimize!</h5>
                         <p class="p-xsm fw-light text-black">We launch and manage Google Ads, Meta Ads, and SEO
                             campaigns, track results closely, and continuously optimize what works best for your
@@ -1068,7 +808,7 @@
                 <!-- CARD 4 -->
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
-                        <div class="hs-j-icon mb-5"><img src="homepage/images/icons/growth.svg" alt=""></div>
+                        <div class="hs-j-icon mb-5"><img src="assets/images/icons/growth.svg" alt=""></div>
                         <h5 class="p-xsm hs-j-card-title fw-bold">At Last, We Scale What Works For Your Growth.
                         </h5>
                         <p class="p-xsm fw-light text-black">We continue exploring new opportunities based on
@@ -1093,7 +833,7 @@
             <div
                 class="container hs-k-content d-flex align-items-center gap-0 align-items-stretch flex-sm-column flex-column flex-lg-row">
                 <div class="container hs-k-image p-0">
-                    <img src="homepage/images/cash-and-chess.png" class="img-fluid" alt="">
+                    <img src="assets/images/cash-and-chess.png" class="img-fluid" alt="">
                 </div>
                 <div class="container hs-k-text d-flex flex-column justify-content-center">
                     <h2 class="hs-k-title mb-3 fw-semibold text-black">
@@ -1125,62 +865,62 @@
 
                 <!-- ITEM -->
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Beauty-Lifestyle.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Beauty-Lifestyle.svg"></div>
                     <p>Beauty & Lifestyle</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Healthcare.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Healthcare.svg"></div>
                     <p>Healthcare</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Music-Singing.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Music-Singing.svg"></div>
                     <p>Music & Singing</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Renovation-Remodeling.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Renovation-Remodeling.svg"></div>
                     <p>Renovation & Remodeling</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/E-commerce.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/E-commerce.svg"></div>
                     <p>E-commerce</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Professional-Services.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Professional-Services.svg"></div>
                     <p>Professional Services</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Construction.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Construction.svg"></div>
                     <p>Construction</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Home-Repair.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Home-Repair.svg"></div>
                     <p>Home Repair</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Laundry-Dry-Cleaning.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Laundry-Dry-Cleaning.svg"></div>
                     <p>Laundry & Dry Cleaning</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Real-Estate.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Real-Estate.svg"></div>
                     <p>Real Estate</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/Ed-Tech.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/Ed-Tech.svg"></div>
                     <p>Ed-Tech</p>
                 </div>
 
                 <div class="hs-l-item">
-                    <div class="hs-l-icon"><img src="homepage/images/industries/IT-Software-Services.svg"></div>
+                    <div class="hs-l-icon"><img src="assets/images/industries/IT-Software-Services.svg"></div>
                     <p>IT & Software Services</p>
                 </div>
 
@@ -1201,7 +941,7 @@
 
                 <!-- ICON -->
                 <div class="mb-4">
-                    <img src="homepage/images/icons/search.svg" alt="">
+                    <img src="assets/images/icons/search.svg" alt="">
                 </div>
 
                 <!-- HEADING -->
@@ -1259,37 +999,37 @@
                 <!-- CARD -->
                 <div class="col-12 col-md-6">
                     <div class="hs-n-card">
-                        <img src="homepage/images/Home-Screen.png" class="img-fluid">
+                        <img src="assets/images/Home-Screen.png" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-12 col-md-6">
                     <div class="hs-n-card">
-                        <img src="homepage/images/User-Acquisition.png" class="img-fluid">
+                        <img src="assets/images/User-Acquisition.png" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-12 col-md-6">
                     <div class="hs-n-card">
-                        <img src="homepage/images/Before-After-01.png" class="img-fluid">
+                        <img src="assets/images/Before-After-01.png" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-12 col-md-6">
                     <div class="hs-n-card">
-                        <img src="homepage/images/Before-After-02.png" class="img-fluid">
+                        <img src="assets/images/Before-After-02.png" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-12 col-md-6">
                     <div class="hs-n-card">
-                        <img src="homepage/images/Leads.png" class="img-fluid">
+                        <img src="assets/images/Leads.png" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-12 col-md-6">
                     <div class="hs-n-card">
-                        <img src="homepage/images/Phone-call-Tracker-02.png" class="img-fluid">
+                        <img src="assets/images/Phone-call-Tracker-02.png" class="img-fluid">
                     </div>
                 </div>
 
@@ -1322,7 +1062,7 @@
 </button>
                     </div>
                     <div class="container hs-o-image p-0">
-                        <img src="homepage/images/Still-Confused.png" class="img-fluid" alt="">
+                        <img src="assets/images/Still-Confused.png" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -1338,17 +1078,17 @@
 
             <div class="hs-p-video-box">
 
-                <!-- <img src="homepage/images/video-banner.png" class="hs-p-video-thumb"> -->
+                <!-- <img src="assets/images/video-banner.png" class="hs-p-video-thumb"> -->
                 <picture>
 
                     <!-- Mobile (≤575px) -->
-                    <source srcset="homepage/images/video-banner-ph.jpeg" media="(max-width: 575px)">
+                    <source srcset="assets/images/video-banner-ph.jpeg" media="(max-width: 575px)">
 
                     <!-- Tablet (576px – 1540px) -->
-                    <source srcset="homepage/images/video-banner-tab.jpeg" media="(max-width: 1540px)">
+                    <source srcset="assets/images/video-banner-tab.jpeg" media="(max-width: 1540px)">
 
                     <!-- Desktop fallback -->
-                    <img src="homepage/images/video-banner.png" class="hs-p-video-thumb">
+                    <img src="assets/images/video-banner.png" class="hs-p-video-thumb">
 
                 </picture>
 
@@ -1418,7 +1158,7 @@
                 <!-- LEFT COLUMN -->
                 <div class="col-lg-4">
                     <div class="hs-q-card mb-4 sbg-gray">
-                        <img src="homepage/images/icons/Digital-Marketing.svg" alt="Digital Marketing">
+                        <img src="assets/images/icons/Digital-Marketing.svg" alt="Digital Marketing">
                         <h5 class="fw-semibold">Digital Marketing</h5>
                         <p class="p-xsm">We don't run random campaigns. We develop a detailed plan, which aligns
                             with your
@@ -1427,7 +1167,7 @@
                     </div>
 
                     <div class="hs-q-card mb-4 sbg-gray">
-                        <img src="homepage/images/icons/Website-Design.svg" alt="Website Design & Development">
+                        <img src="assets/images/icons/Website-Design.svg" alt="Website Design & Development">
                         <h5 class="fw-semibold">Website Design & Development</h5>
                         <p class="p-xsm">Your website should do more than look good. We design fast, clear, and
                             conversion-focused
@@ -1435,7 +1175,7 @@
                     </div>
 
                     <div class="hs-q-card sbg-gray">
-                        <img src="homepage/images/icons/Ecommerce-Marketing.svg" alt="Ecommerce Marketing">
+                        <img src="assets/images/icons/Ecommerce-Marketing.svg" alt="Ecommerce Marketing">
                         <h5 class="fw-semibold">Ecommerce Marketing</h5>
                         <p class="p-xsm">From traffic to checkout, we optimize your ecommerce marketing to increase
                             your purchases
@@ -1449,7 +1189,7 @@
 
                     <!-- Top Full Card -->
                     <div class="hs-q-card h-100 sbg-gray">
-                        <img src="homepage/images/icons/Business-Automation.svg"
+                        <img src="assets/images/icons/Business-Automation.svg"
                             alt="Business Automation Services & CRM Management">
                         <h5 class="fw-semibold">Business Automation Services & CRM Management</h5>
                         <p class="p-xsm">We set up AI automations and CRM workflows to automate business processes,
@@ -1461,7 +1201,7 @@
                     <div class="row g-4 flex-md-column flex-lg-row">
                         <div class="col-md-12 col-lg-6">
                             <div class="hs-q-card hs-q-tall h-100 sbg-gray">
-                                <img src="homepage/images/icons/Search-Engine.svg" alt="">
+                                <img src="assets/images/icons/Search-Engine.svg" alt="">
                                 <h5 class="fw-semibold">Search Engine Optimization</h5>
                                 <p class="p-xsm">We ensure your business is found when it is needed the most in
                                     search. Our SEO is
@@ -1473,7 +1213,7 @@
 
                         <div class="col-md-12 col-lg-6">
                             <div class="hs-q-card h-100 sbg-gray">
-                                <img src="homepage/images/icons/Social-Media.svg" alt="">
+                                <img src="assets/images/icons/Social-Media.svg" alt="">
                                 <h5 class="fw-semibold">Social Media Marketing</h5>
                                 <p class="p-xsm">With social platforms, we help to link your business to the correct
                                     audience,
@@ -1485,7 +1225,7 @@
 
                     <!-- Bottom Full Card -->
                     <div class="hs-q-card h-100 sbg-gray">
-                        <img src="homepage/images/icons/Google-Ads.svg" alt="">
+                        <img src="assets/images/icons/Google-Ads.svg" alt="">
                         <h5 class="fw-semibold">Google Ads / Performance Marketing</h5>
                         <p class="p-xsm">We manage and optimise paid ads to reach high-intent users, control costs,
                             and maximise
@@ -1566,77 +1306,77 @@
 
                 <!-- CARD -->
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Adarsh-Mathuri-01.png">
+                    <img src="assets/images/Team/Adarsh-Mathuri-01.png">
                     <div class="hs-r-info">
                         <h6>Adarsh Mathuri</h6><span>SEO Expert</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Himanshu-Verma.png">
+                    <img src="assets/images/Team/Himanshu-Verma.png">
                     <div class="hs-r-info">
                         <h6>Himanshu Verma</h6><span>SEO Expert</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Akash-kumar.png">
+                    <img src="assets/images/Team/Akash-kumar.png">
                     <div class="hs-r-info">
                         <h6>Akash Kumar</h6><span>Senior Developer</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Gunjan-Nagpal.png">
+                    <img src="assets/images/Team/Gunjan-Nagpal.png">
                     <div class="hs-r-info">
                         <h6>Gunjan Nagpal</h6><span>Content Specialist</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Samim-Pathan.png">
+                    <img src="assets/images/Team/Samim-Pathan.png">
                     <div class="hs-r-info">
                         <h6>Samim Pathan</h6><span>Web Designer</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Het-Patel.png">
+                    <img src="assets/images/Team/Het-Patel.png">
                     <div class="hs-r-info">
                         <h6>Het Patel</h6><span>Automation Expert</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Neeraj-Kumar.png">
+                    <img src="assets/images/Team/Neeraj-Kumar.png">
                     <div class="hs-r-info">
                         <h6>Neeraj Kumar</h6><span>SEO Expert</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Rohit-Rai.png">
+                    <img src="assets/images/Team/Rohit-Rai.png">
                     <div class="hs-r-info">
                         <h6>Rohit Rai</h6><span>Website Developer</span>
                     </div>
                 </div>
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Deepak-Shah.png">
+                    <img src="assets/images/Team/Deepak-Shah.png">
                     <div class="hs-r-info">
                         <h6>Deepak Shah</h6><span>SEO Expert</span>
                     </div>
                 </div>
 
                 <!-- <div class="hs-r-card">
-                        <img src="homepage/images/Team/Chetna-Gaur.png">
+                        <img src="assets/images/Team/Chetna-Gaur.png">
                         <div class="hs-r-info">
                             <h6>Chetna Gaur</h6><span>Marketing Specialist</span>
                         </div>
                     </div> -->
 
                 <div class="hs-r-card">
-                    <img src="homepage/images/Team/Khushi-sahni.png">
+                    <img src="assets/images/Team/Khushi-sahni.png">
                     <div class="hs-r-info">
                         <h6>Khushi Sahni</h6><span>SEO Expert</span>
                     </div>
@@ -1703,123 +1443,34 @@
     </script>
 
     <!-- Meet The People section End -->
+
     <!-- FAQs section -->
-
-
-    <section class="hs-s-faq section-gap-top px-2a">
-
-        <div class="container">
-
-            <div class="text-center mb-5">
-                <h2 class="fw-semibold">Have Some Questions? <span class="text-crimson">Let Us Clear!</span></h2>
-            </div>
-
-            <div class="hs-s-accordion">
-
-                <div class="hs-s-item active sbg-gray">
-                    <div class="hs-s-question">
-                        <h3>What is your decision about selecting the appropriate marketing strategy in my market?
-                        </h3>
-                        <div class="hs-s-icon">+</div>
-                    </div>
-                    <div class="hs-s-answer fw-light">
-                        We look at your audience, competitors and market demand and then select the channels that
-                        would best suit your business and region: SEO, Google Ads, Meta Ads or AI-led growth.
-                    </div>
-                </div>
-
-                <div class="hs-s-item sbg-gray">
-                    <div class="hs-s-question">
-                        <h3>What is your measure of success in various markets?</h3>
-                        <div class="hs-s-icon">+</div>
-                    </div>
-                    <div class="hs-s-answer fw-light">
-                        We measure success based on ROI, lead quality, conversion rate and sustainable growth
-                        metrics.
-                    </div>
-                </div>
-
-                <div class="hs-s-item sbg-gray">
-                    <div class="hs-s-question">
-                        <h3>I have had previous experience with agencies. How are you different?</h3>
-                        <div class="hs-s-icon">+</div>
-                    </div>
-                    <div class="hs-s-answer fw-light">
-                        We measure success based on ROI, lead quality, conversion rate and sustainable growth
-                        metrics.
-                    </div>
-                </div>
-
-                <div class="hs-s-item sbg-gray">
-                    <div class="hs-s-question">
-                        <h3>Will you be able to assist us in scaling out of one country or region?</h3>
-                        <div class="hs-s-icon">+</div>
-                    </div>
-                    <div class="hs-s-answer fw-light">
-                        We measure success based on ROI, lead quality, conversion rate and sustainable growth
-                        metrics.
-                    </div>
-                </div>
-
-                <div class="hs-s-item sbg-gray">
-                    <div class="hs-s-question">
-                        <h3>Will I have visibility into performance and progress?</h3>
-                        <div class="hs-s-icon">+</div>
-                    </div>
-                    <div class="hs-s-answer fw-light">
-                        We focus on performance driven marketing backed by data, transparency and optimization.
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </section>
-
-
-
-    <script>
-        (function () {
-
-            document.querySelectorAll('.hs-s-accordion').forEach(acc => {
-
-                let items = acc.querySelectorAll('.hs-s-item');
-
-                items.forEach(item => {
-
-                    let answer = item.querySelector('.hs-s-answer');
-                    let icon = item.querySelector('.hs-s-icon');
-
-                    if (item.classList.contains('active')) {
-                        answer.style.maxHeight = answer.scrollHeight + 'px';
-                        icon.innerHTML = '−';
-                    }
-
-                    item.querySelector('.hs-s-question').addEventListener('click', () => {
-
-                        items.forEach(i => {
-                            let a = i.querySelector('.hs-s-answer');
-                            let ic = i.querySelector('.hs-s-icon');
-
-                            i.classList.remove('active');
-                            a.style.maxHeight = null;
-                            ic.innerHTML = '+';
-                        });
-
-                        item.classList.add('active');
-                        answer.style.maxHeight = answer.scrollHeight + 'px';
-                        icon.innerHTML = '−';
-
-                    });
-
-                });
-
-            });
-
-        })();
-    </script>
-
-
+    <?php
+    $faq_items = [
+        [
+            'q' => 'What is your decision about selecting the appropriate marketing strategy in my market?',
+            'a' => 'We look at your audience, competitors and market demand and then select the channels that would best suit your business and region: SEO, Google Ads, Meta Ads or AI-led growth.',
+        ],
+        [
+            'q' => 'What is your measure of success in various markets?',
+            'a' => 'We measure success based on ROI, lead quality, conversion rate and sustainable growth metrics.',
+        ],
+        [
+            'q' => 'I have had previous experience with agencies. How are you different?',
+            'a' => 'We measure success based on ROI, lead quality, conversion rate and sustainable growth metrics.',
+        ],
+        [
+            'q' => 'Will you be able to assist us in scaling out of one country or region?',
+            'a' => 'We measure success based on ROI, lead quality, conversion rate and sustainable growth metrics.',
+        ],
+        [
+            'q' => 'Will I have visibility into performance and progress?',
+            'a' => 'We focus on performance driven marketing backed by data, transparency and optimization.',
+        ],
+    ];
+    include 'assets/include/faq.php';
+    unset($faq_items);
+    ?>
     <!-- FAQs section End -->
     <!-- Business Goals section -->
 
@@ -1828,7 +1479,7 @@
             <div
                 class="container hs-t-content d-flex align-items-center gap-0 align-items-stretch flex-sm-column flex-column flex-lg-row">
                 <div class="container hs-t-image p-0">
-                    <img src="homepage/images/Business-goals.png" class="img-fluid" alt="">
+                    <img src="assets/images/Business-goals.png" class="img-fluid" alt="">
                 </div>
                 <div class="container hs-t-text d-flex flex-column justify-content-center">
                     <h2 class="hs-t-title mb-3 fw-semibold text-black">
@@ -1888,15 +1539,6 @@
         </div>
     </div>
 
-    <style>
-        .modal {
-            z-index: 99999 !important;
-        }
-
-        .modal-backdrop {
-            z-index: 99998 !important;
-        }
-    </style>
 
 
     <!-- FORM POP_UP -->
@@ -1926,11 +1568,11 @@
 
 
 
-    <script src="homepage/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="homepage/assets/js/main.js"></script>
+    <script src="assets/vendor/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/js/main.js"></script>
 
 
-    <?php include_once 'homepage/include/footer.php';?>
+    <?php include_once 'assets/include/footer.php';?>
 </body>
 
 </html>

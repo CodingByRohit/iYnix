@@ -7,18 +7,18 @@
     <title>Digital Marketing Agency in the USA | Get More Leads</title>
     <meta name="description"
         content="Tired of empty promises? We help US businesses get more leads & 2x-3x revenue growth through SEO, Google Ads & smart digital marketing.">
-    <link href="homepage/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="homepage/css/font-size.css">
-    <link rel="stylesheet" href="homepage/css/custom.css">
-    <link rel="stylesheet" href="homepage/css/services.css">
+    <link rel="stylesheet" href="assets/css/font-size.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/services.css">
 
 
 </head>
 
 <body>
 
-    <?php include_once 'homepage/include/navbar.php';?>
+    <?php include_once 'assets/include/navbar.php';?>
 
 
     <!--<main style="margin-top: 90px;">-->
@@ -27,16 +27,18 @@
 
             <div class="container d-flex flex-column justify-content-center hero-banner-text m-0"
                 style="max-width: 777px;">
-                <h1 class="mt-4 my-3 dt text-light h1-sm fw-bold"><span class="text-crimson">Get More Traffic, Better
-                        Leads and Bigger Revenue </span> With Data- Driven Digital Marketing Services
+                <a href="javascript:void(0)"><button class="btn btn-primary accent" style="width: fit-content;"><i class="bi bi-search"></i> SEO Marketing Company</button></a>
+                <h1 class="mt-4 my-3 dt text-light h1-sm fw-bold"><span class="text-crimson">Get More Traffic, Higher
+                        Rankings & Real Growth </span> With Professional SEO Marketing Company
                 </h1>
-                <p class="fw-medium text-light">We help businesses attract the right audience, convert visitors into
-                    leads, and scale revenue using proven SEO, paid advertising, and AI-powered marketing strategies.
+                <p class="fw-medium text-light">We help businesses get found on Google, attract the right visitors,
+                    and turn organic traffic into consistent leads and revenue through proven, data-driven SEO
+                    strategies.
                 </p>
                 <div class="container d-flex gap-3">
                     <button class="btn btn-secondary mt-5" data-bs-toggle="modal" data-bs-target="#hsFormModal"
                         style="width: fit-content;">
-                        Get a Free Marketing Audit!
+                        Get a Free SEO Audit!
                     </button>
                     <a href="javascript:void(0)"><button class="btn btn-primary accent mt-5">Get in Touch With
                             Us</button></a>
@@ -47,106 +49,35 @@
     </section>
 
     <!-- Stats section -->
-    <style type="text/css" media="all">
-        .sr-stats-section {
-            background: #FDFDFD;
-        }
-
-        .sr-stats-wrap {
-            background: #F4F4F4;
-            border: 1px solid #D3D3D3;
-            border-radius: 20px;
-            overflow: hidden;
-            margin: 0 auto;
-        }
-
-        .sr-stat-item {
-            text-align: center;
-            padding: 60px;
-            position: relative;
-        }
-
-        /* Vertical divider lines for desktop */
-        .sr-stat-item::after {
-            content: "";
-            position: absolute;
-            top: 18px;
-            right: 0;
-            width: 1px;
-            height: calc(100% - 36px);
-            background: #cfcfcf;
-        }
-
-        /* Remove divider from last item */
-        .col-md-4:last-child .sr-stat-item::after {
-            display: none;
-        }
-
-        .sr-stat-item h2 {
-            font-weight: 700;
-            color: #D81F28;
-            margin-bottom: 30px;
-            line-height: 1;
-        }
-
-        .sr-stat-item p {
-            font-weight: 600;
-            color: #000000;
-            margin: 0;
-            line-height: 1.4;
-        }
-
-        /* Tablet */
-        /* @media (max-width: 991px) {
-
-    .sr-stat-item p {
-        font-size: 16px;
-    }
-} */
-
-        /* Mobile view */
-        @media (max-width: 767px) {
-            .sr-stat-item {
-                padding: 20px 15px;
-            }
-
-            /* Change line direction to horizontal */
-            .sr-stat-item::after {
-                top: auto;
-                bottom: 0;
-                right: auto;
-                left: 15%;
-                width: 70%;
-                height: 1px;
-            }
-
-            .col-12:last-child .sr-stat-item::after {
-                display: none;
-            }
-        }
-    </style>
     <section class="sr-stats-section section-gap">
         <div class="container">
             <div class="sr-stats-wrap">
                 <div class="row g-0">
-                    <div class="col-md-4 col-12">
+                    <div class="col-md-3 col-12">
                         <div class="sr-stat-item">
                             <h2>500+</h2>
-                            <p>Campaigns managed</p>
+                            <p>SEO campaigns managed</p>
                         </div>
                     </div>
 
-                    <div class="col-md-4 col-12">
+                    <div class="col-md-3 col-12">
                         <div class="sr-stat-item">
                             <h2>95M+</h2>
-                            <p>Organic visitors generated</p>
+                            <p>Organic visitors driven</p>
                         </div>
                     </div>
 
-                    <div class="col-md-4 col-12">
+                    <div class="col-md-3 col-12">
                         <div class="sr-stat-item">
                             <h2>1.2M+</h2>
-                            <p>Ad conversions</p>
+                            <p>Organic conversions generated</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-12">
+                        <div class="sr-stat-item">
+                            <h2>98%</h2>
+                            <p>Client satisfaction rate</p>
                         </div>
                     </div>
                 </div>
@@ -158,7 +89,7 @@
     <!-- Real Growth SECTION -->
 
 
-    <?php include_once 'homepage/include/trusted-brands.php';?>
+    <?php include_once 'assets/include/trusted-brands.php';?>
 
 
     <!-- Real Growth SECTION END -->
@@ -167,79 +98,12 @@
     <!-- Is Your Business Struggling to SECTION -->
 
 
-    <style type="text/css" media="all">
-        .sr-a-card {
-            background: #fff;
-            border: 1px solid #d3d3d3;
-            border-radius: 20px;
-            padding: 32px 16px 32px 32px;
-            min-height: 110px;
-            transition: all 0.35s ease;
-            cursor: pointer;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-
-        .sr-a-number {
-            width: 34px;
-            height: 34px;
-            border: 1px dotted #e53935;
-            border-radius: 50%;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            color: #D81F28;
-            font-size: 16px;
-            font-weight: 700;
-            margin-bottom: 30px;
-            transition: all 0.35s ease;
-        }
-
-        .sr-a-card p {
-            transition: all 0.35s ease;
-        }
-
-        /* Default active card */
-        .sr-a-active {
-            background: #000;
-        }
-
-        .sr-a-active p {
-            color: #fff;
-        }
-
-        .sr-a-active .sr-a-number {
-            border-color: #D81F28;
-            color: #D81F28;
-        }
-
-        /* Hover state for all cards */
-        .sr-a-card:hover {
-            background: #000;
-            transform: translateY(-3px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
-        }
-
-        .sr-a-card:hover p {
-            color: #fff;
-        }
-
-        /* Responsive */
-        @media (max-width: 767px) {
-
-            .sr-a-card {
-                min-height: auto;
-                padding: 18px 16px;
-            }
-        }
-    </style>
     <section class="section-gap">
         <div class="container">
             <div class="sr-a-heading text-center">
                 <h2 class="fw-semibold">
                     Is Your Business Struggling to <br>
-                    <span class="text-crimson">Generate Consistent Leads Online?</span>
+                    <span class="text-crimson">Get Traffic or Rank on Google?</span>
                 </h2>
                 <p class="fw-medium">If this is the case, you might be facing these challenges.</p>
             </div>
@@ -248,43 +112,50 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="sr-a-card">
                         <span class="sr-a-number">1</span>
-                        <p class="fw-medium">Website traffic is too low</p>
+                        <p class="fw-medium">Your website barely gets organic traffic</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
                     <div class="sr-a-card">
                         <span class="sr-a-number">2</span>
-                        <p class="fw-medium">Ads are expensive but not converting</p>
+                        <p class="fw-medium">Competitors show up on Google search, but you don't</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
                     <div class="sr-a-card">
                         <span class="sr-a-number">3</span>
-                        <p class="fw-medium">Your website gets visitors, but no leads</p>
+                        <p class="fw-medium">Your rankings dropped and it's unclear why</p>
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="sr-a-card">
                         <span class="sr-a-number">4</span>
-                        <p class="fw-medium">Competitors are outranking you on Google</p>
+                        <p class="fw-medium">You get visitors, but not real leads</p>
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="sr-a-card">
                         <span class="sr-a-number">5</span>
-                        <p class="fw-medium">Marketing efforts feel random and unstructured</p>
+                        <p class="fw-medium">SEO feels confusing or overly technical</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-a-card">
+                        <span class="sr-a-number">6</span>
+                        <p class="fw-medium">You've tried SEO before but saw no real results</p>
                     </div>
                 </div>
             </div>
 
             <div class="sr-a-bottom-text text-center mt-5">
                 <p class="fw-bold">
-                    Do we sound right?
-                    <span class="text-crimson">If yes, then do not worry, we are here to help you!</span>
+                    Are we correct?
+                    <span class="text-crimson">If yes, then we're here to fix it.</span>
                 </p>
             </div>
         </div>
@@ -292,6 +163,33 @@
 
 
     <!-- Is Your Business Struggling to SECTION END -->
+
+
+    <!-- Ready to Improve Rankings CTA SECTION -->
+
+    <section class="section-gap-bottom">
+        <div class="container">
+            <div class="sr-cta-box text-center">
+                <h2 class="fw-semibold mb-3">
+                    So, Are You Ready to Improve Your <br>
+                    <span class="text-crimson">Rankings and Grow Your Business?</span>
+                </h2>
+                <p class="fw-medium mx-auto" style="max-width: 700px;">
+                    Your customers are searching. Let's make sure they find you, not your competitors.
+                </p>
+                <div class="d-flex flex-wrap gap-3 justify-content-center mt-4">
+                    <button class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#hsFormModal"
+                        style="width: fit-content;">
+                        Get a Free SEO Audit!
+                    </button>
+                    <a href="javascript:void(0)"><button class="btn btn-primary accent">Get in Touch With
+                            Us</button></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Ready to Improve Rankings CTA SECTION End -->
 
 
     <!-- You Found Us SECTION -->
@@ -302,18 +200,17 @@
                 class="container d-flex align-items-center gap-0 align-items-stretch flex-sm-column-reverse flex-column-reverse flex-lg-row">
                 <div class="container bann-hf-text">
                     <h2 class="mb-3 fw-semibold text-black">
-                        A Strategic Digital Marketing Agency for <span class="text-crimson">Businesses That Want Real
-                            Growth</span></h2>
-                    <p class="bann-hf-p p-sm my-4">Expanding online does not only involve running advertisements or
-                        posting on social media. It needs an intelligent digital marketing strategy that will draw the
-                        appropriate audience, transform visitors into customers, and generate regular revenue.<br>Iynix
-                        Digital provides strategic digital marketing services meant to raise your online presence,
-                        create qualified leads, and expand your business in a shorter time. We make use of a combination
-                        of data-driven analysis, AI solutions, and proven online digital marketing services to come up
-                        with campaigns that provide real results.</p>
+                        A Strategic SEO Marketing Company That Helps Your Business <span class="text-crimson">Get
+                            Found, Get Leads, and Keep Growing!</span></h2>
+                    <p class="bann-hf-p p-sm my-4">Ranking on Google isn't about stuffing keywords onto a page
+                        anymore. It takes a technically sound website, content that answers what your customers are
+                        actually searching for, and a link profile search engines trust.<br>Iynix Digital builds SEO
+                        strategies around how your industry and market actually search — combining technical audits,
+                        content strategy, and authority building to grow your organic visibility, qualified leads,
+                        and revenue in a sustainable way.</p>
                 </div>
                 <div class="container bann-hf-img p-0">
-                    <img src="homepage/images/office-high-five.png" class="img-fluid" alt="">
+                    <img src="assets/images/Business-goals.png" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -322,104 +219,83 @@
 
     <!-- You Found Us SECTION End -->
 
-    <!-- Marketing services to grow Section -->
+    <!-- Our Performance Metrics SECTION -->
 
+    <section class="section-gap-top">
+        <div class="container">
+            <h3 class="fw-bold mb-5 text-center">Our <span class="text-crimson">Performance Metrics</span></h3>
+
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-metric-card sbg-gray">
+                        <h3>95,000,000+</h3>
+                        <p>Organic Website Visitors Driven</p>
+                        <svg class="sr-metric-spark" width="180" height="48" viewBox="0 0 180 48" fill="none">
+                            <polyline points="0,38 25,30 50,34 75,18 100,24 125,10 150,16 180,4" stroke="#D81F28" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-metric-card sr-metric-dark">
+                        <h3>1,200,000+</h3>
+                        <p>Conversions Generated</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-12">
+                    <div class="sr-metric-card sbg-gray">
+                        <h3>500+</h3>
+                        <p>Successful SEO Campaigns Managed</p>
+                        <svg class="sr-metric-spark" width="180" height="48" viewBox="0 0 180 48" fill="none">
+                            <polyline points="0,30 25,34 50,20 75,26 100,12 125,18 150,6 180,14" stroke="#D81F28" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Performance Metrics SECTION End -->
+
+    <!-- Why You Need SEO Section -->
 
     <section class="sr-b-why-section section-gap">
         <div class="container">
+            <div class="container d-flex align-items-center gap-0 align-items-stretch flex-sm-column flex-column flex-lg-row">
 
-            <!-- Heading -->
-            <div class="text-center mb-5">
-                <h2 class="fw-semibold mb-3">
-                    Why Your Business Needs Digital <br>
-                    <span class="text-crimson">Marketing Services to Grow?</span>
-                </h2>
-                <p class="mx-auto text-black" style="max-width: 1365px;">
-                    Consumers rely on the internet to discover, research, and purchase products and services. Businesses
-                    that invest in digital marketing services gain a competitive advantage by reaching customers exactly
-                    when they are searching for solutions.
-                </p>
-            </div>
-
-            <!-- Custom 3 Column Layout -->
-            <div class="row g-3 container">
-
-                <!-- LEFT (3 items) -->
-                <div class="col-lg-4 col-md-6">
-                    <div class="d-flex flex-column gap-3 h-100">
-                        <div class="sr-b-pill p-6 fw-medium">
-                            <p class="text-black">Increase targeted website traffic</p>
-                        </div>
-                        <div class="sr-b-pill p-6 fw-medium">
-                            <p class="text-black">Reach the right audience faster</p>
-                        </div>
-                        <div class="sr-b-pill p-6 fw-medium">
-                            <p class="text-black">Drive consistent sales growth</p>
-                        </div>
-                    </div>
+                <div class="container">
+                    <h2 class="fw-semibold mb-3">
+                        Why Does Your Business Need <br>
+                        <span class="text-crimson">SEO To Grow?</span>
+                    </h2>
+                    <p class="text-black mb-4">
+                        Consumers rely on search engines to discover, research, and choose who they buy from.
+                        Businesses that invest in SEO gain a lasting competitive advantage by showing up exactly
+                        when customers are searching for solutions, without paying for every single click.
+                    </p>
+                    <ul class="sr-b-checklist">
+                        <li><i class="bi bi-check-circle-fill"></i> Increase targeted organic website traffic</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Reach the right audience faster</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Drive consistent, compounding growth</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Achieve higher marketing ROI than paid ads alone</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Generate more qualified, ready-to-buy leads</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Improve conversion rates with intent-matched traffic</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Boost brand visibility and trust online</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Scale your business without scaling ad spend</li>
+                    </ul>
                 </div>
 
-                <!-- CENTER (2 items) -->
-                <div class="col-lg-4 col-md-6">
-                    <div class="d-flex flex-column gap-3 h-100">
-                        <div class="sr-b-pill p-6 fw-medium h-100">
-                            <p class="text-black">Achieve higher marketing ROI</p>
-                        </div>
-                        <div class="sr-b-pill p-6 fw-medium h-100">
-                            <p class="text-black">Generate more qualified leads</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- RIGHT (3 items) -->
-                <div class="col-lg-4 col-md-6">
-                    <div class="d-flex flex-column gap-3 h-100">
-                        <div class="sr-b-pill p-6 fw-medium">
-                            <p class="text-black">Improve conversion rates</p>
-                        </div>
-                        <div class="sr-b-pill p-6 fw-medium">
-                            <p class="text-black">Boost brand visibility online</p>
-                        </div>
-                        <div class="sr-b-pill p-6 fw-medium">
-                            <p class="text-black">Scale your business online</p>
-                        </div>
-                    </div>
+                <div class="container p-0">
+                    <img src="assets/images/Qualified-Leads.png" class="img-fluid rounded-4" alt="">
                 </div>
 
             </div>
-
-            <!-- Bottom Text -->
-            <div class="text-center mt-4">
-                <p class="fw-semibold mb-0 text-black" style="max-width: 800px; margin: 0 auto;">
-                    Working with a professional digital marketing company ensures your marketing efforts are strategic
-                    and efficient.
-                </p>
-            </div>
-
         </div>
-
     </section>
 
-    <style>
-        .sr-b-pill {
-            background: #F4F4F4;
-            border: 1px solid #D3D3D3;
-            border-radius: 20px;
-            text-align: center;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
 
-        /* Mobile Fix */
-        @media (max-width: 767px) {
-            .sr-b-pill {
-                padding: 12px;
-            }
-        }
-    </style>
-
-    <!-- Marketing services to grow Section End -->
+    <!-- Why You Need SEO Section End -->
 
 
     <!-- Next-Generation Digital Marketing Agency -->
@@ -432,13 +308,13 @@
 
             <!-- Heading -->
             <h2 class="hs-j-smart-title mb-3 fw-semibold text-light" style="max-width:900px;margin:0 auto;">
-                Next-Generation Digital Marketing Agency
-                <span class="text-crimson">Powered by AI</span>
+                Get A Smarter,
+                <span class="text-crimson">AI-Enhanced Approach to SEO</span>
             </h2>
             <p class="text-light" style="max-width: 1425px; margin: 0 auto;">
-                Modern marketing requires smarter strategies and faster decision-making. We are an AI-powered digital
-                marketing agency of the next generation, where sophisticated technology and professional knowledge of
-                marketing are combined to create a highly-targeted and outcome-oriented campaign.
+                Modern SEO requires smarter strategies and faster decision-making. We combine AI-driven research
+                and analysis with hands-on SEO expertise to find opportunities faster and act on them before your
+                competitors do.
             </p>
 
 
@@ -452,7 +328,7 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
                         <div class="hs-j-icon mb-5"><img
-                                src="homepage/images/services/Predict-high-converting-keywords.svg" alt=""></div>
+                                src="assets/images/services/Predict-high-converting-keywords.svg" alt=""></div>
                         <h5 class="hs-j-card-title fw-bold mw-100">Predict high-converting keywords</h5>
                     </div>
                 </div>
@@ -461,8 +337,8 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
                         <div class="hs-j-icon mb-5"><img
-                                src="homepage/images/services/Optimize-ad-bidding-automatically.svg" alt=""></div>
-                        <h5 class="hs-j-card-title fw-bold mw-100">Optimize ad bidding automatically</h5>
+                                src="assets/images/services/Optimize-ad-bidding-automatically.svg" alt=""></div>
+                        <h5 class="hs-j-card-title fw-bold mw-100">Uncover content gaps automatically</h5>
                     </div>
                 </div>
 
@@ -470,8 +346,8 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
                         <div class="hs-j-icon mb-5"><img
-                                src="homepage/images/services/Identify-high-intent-audiences.svg" alt=""></div>
-                        <h5 class="hs-j-card-title fw-bold mw-100">Identify high-intent audiences</h5>
+                                src="assets/images/services/Identify-high-intent-audiences.svg" alt=""></div>
+                        <h5 class="hs-j-card-title fw-bold mw-100">Identify high-intent search audiences</h5>
                     </div>
                 </div>
 
@@ -479,8 +355,8 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="hs-j-card h-100 sbg-gray">
                         <div class="hs-j-icon mb-5"><img
-                                src="homepage/images/services/Personalize-marketing-campaigns.svg" alt=""></div>
-                        <h5 class="hs-j-card-title fw-bold mw-100">Personalize marketing campaigns
+                                src="assets/images/services/Personalize-marketing-campaigns.svg" alt=""></div>
+                        <h5 class="hs-j-card-title fw-bold mw-100">Track rankings & algorithm shifts in real time
                         </h5>
                     </div>
                 </div>
@@ -505,15 +381,15 @@
 
             <h3 class="fw-bold mb-2 text-center">
                 A 360° Approach to <br>
-                <span class="text-crimson">Digital Marketing Services</span>
+                <span class="text-crimson">SEO Services</span>
             </h3>
 
             <div class="sr-c-slider mt-5">
 
                 <!-- ARROWS -->
-                <button class="sr-c-arrow sr-c-prev"><img src="homepage/images/services/slider-left.svg"
+                <button class="sr-c-arrow sr-c-prev"><img src="assets/images/services/slider-left.svg"
                         alt=""></button>
-                <button class="sr-c-arrow sr-c-next"><img src="homepage/images/services/slider-right.svg"
+                <button class="sr-c-arrow sr-c-next"><img src="assets/images/services/slider-right.svg"
                         alt=""></button>
 
                 <!-- VIEWPORT -->
@@ -522,53 +398,43 @@
 
                         <!-- CARDS -->
                         <div class="sr-c-card">
-                            <img src="homepage/images/services/SEO-Audit.svg" alt="" class="mb-6">
-                            <h5 class="mb-3">Social Media</h5>
-                            <p class="p-xsm mb-6">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                when an unknown printer took a galley of type and scrambled it to make a type specimen
-                                book.</p>
-                            <span class="text-crimson p-sm fw-semibold">Learn More →</span>
+                            <img src="assets/images/icons/Search-Engine.svg" alt="" class="mb-6">
+                            <h5 class="mb-3">Technical SEO</h5>
+                            <p class="p-xsm mb-6">We fix crawlability, site speed, indexing, and Core Web Vitals
+                                issues so search engines can find, understand, and rank your site.</p>
+                            <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
                         <div class="sr-c-card">
-                            <img src="homepage/images/services/SEO-Services.svg" alt="" class="mb-6">
-                            <h5 class="mb-3">SEO Services</h5>
-                            <p class="p-xsm mb-6">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                when an unknown printer took a galley of type and scrambled it to make a type specimen
-                                book.</p>
-                            <span class="text-crimson p-sm fw-semibold">Learn More →</span>
+                            <img src="assets/images/services/SEO-Services.svg" alt="" class="mb-6">
+                            <h5 class="mb-3">On-Page SEO</h5>
+                            <p class="p-xsm mb-6">Keyword-mapped titles, meta tags, headings, and internal linking
+                                that align every page with what your customers are actually searching for.</p>
+                            <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
                         <div class="sr-c-card">
-                            <img src="homepage/images/services/Local-SEO-Service.svg" alt="" class="mb-6">
-                            <h5 class="mb-3">Content Marketing</h5>
-                            <p class="p-xsm mb-6">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                when an unknown printer took a galley of type and scrambled it to make a type specimen
-                                book.</p>
-                            <span class="text-crimson p-sm fw-semibold">Learn More →</span>
+                            <img src="assets/images/icons/Digital-Marketing.svg" alt="" class="mb-6">
+                            <h5 class="mb-3">Content Strategy</h5>
+                            <p class="p-xsm mb-6">SEO-driven content that answers real search intent, builds
+                                topical authority, and keeps ranking long after it's published.</p>
+                            <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
                         <div class="sr-c-card">
-                            <img src="homepage/images/services/SEO-Audit.svg" alt="" class="mb-6">
-                            <h5 class="mb-3">SEO Audit</h5>
-                            <p class="p-xsm mb-6">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                when an unknown printer took a galley of type and scrambled it to make a type specimen
-                                book.</p>
-                            <span class="text-crimson p-sm fw-semibold">Learn More →</span>
+                            <img src="assets/images/services/SEO-Audit.svg" alt="" class="mb-6">
+                            <h5 class="mb-3">Off-Page SEO &amp; Link Building</h5>
+                            <p class="p-xsm mb-6">We build genuine authority through quality backlinks, digital
+                                PR, and citations that search engines actually trust.</p>
+                            <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
                         <div class="sr-c-card">
-                            <img src="homepage/images/services/Local-SEO-Service.svg" alt="" class="mb-6">
+                            <img src="assets/images/services/Local-SEO-Service.svg" alt="" class="mb-6">
                             <h5 class="mb-3">Local SEO</h5>
-                            <p class="p-xsm mb-6">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                when an unknown printer took a galley of type and scrambled it to make a type specimen
-                                book.</p>
-                            <span class="text-crimson p-sm fw-semibold">Learn More →</span>
+                            <p class="p-xsm mb-6">Google Business Profile optimization, local citations, and
+                                location-based content that gets you found by customers near you.</p>
+                            <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
                     </div>
@@ -579,103 +445,6 @@
         </div>
     </section>
 
-    <style>
-        /* WRAPPER */
-        .sr-c-slider {
-            position: relative;
-            padding: 0 60px;
-            /* space for arrows */
-        }
-
-        /* VIEWPORT */
-        .sr-c-viewport {
-            overflow: hidden;
-            /* remove scroll */
-            padding: 20px 0;
-            /* give vertical breathing space */
-        }
-
-        /* TRACK */
-        .sr-c-track {
-            display: flex;
-            gap: 20px;
-            /* REQUIRED */
-            transition: transform 0.5s ease;
-            will-change: transform;
-        }
-
-        .sr-c-track {
-            padding: 10px 0;
-            /* creates space for scaled card */
-        }
-
-        /* CARD */
-        .sr-c-card {
-            flex: 0 0 calc((100% - 40px) / 3);
-            padding: 32px;
-            transition: transform 0.4s ease, background 0.3s ease, color 0.3s ease;
-            position: relative;
-            z-index: 1;
-            border-radius: 20px;
-            border: 1px solid #DEDEDE;
-            background: #FFF;
-            box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.06);
-        }
-
-        /* ACTIVE CENTER */
-        .sr-c-card.is-active {
-            background: #000;
-            color: #fff;
-            transform: scale(1.12);
-            /* NOW WORKS */
-            z-index: 3;
-        }
-
-        /* ARROWS */
-        .sr-c-arrow {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 38px;
-            height: 38px;
-            border-radius: 8px;
-            border: 1px solid #DEDEDE;
-            box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.12);
-            background: transparent;
-            z-index: 5;
-            cursor: pointer;
-        }
-
-        .sr-c-prev {
-            left: -10px;
-        }
-
-        .sr-c-next {
-            right: -10px;
-        }
-
-        /* TABLET */
-        @media (max-width: 991px) {
-            .sr-c-card {
-                flex: 0 0 calc((100% - 20px) / 2);
-            }
-
-            .sr-c-card.is-active {
-                transform: scale(1);
-            }
-        }
-
-        /* MOBILE */
-        @media (max-width: 767px) {
-            .sr-c-slider {
-                padding: 0 10px;
-            }
-
-            .sr-c-card {
-                flex: 0 0 100%;
-            }
-        }
-    </style>
 
     <script>
         (function () {
@@ -774,13 +543,13 @@
             <!-- Heading -->
             <div class="text-center mb-4">
                 <h2 class="fw-bold mb-3">
-                    How Does Iynix Digital Grow Your <br>
-                    <span class="text-crimson">Revenues 2x-3x Times?</span>
+                    How Does Iynix Digital Help You <br>
+                    <span class="text-crimson">Grow 2-3X With SEO?</span>
                 </h2>
                 <p class="mx-auto mb-5" style="max-width: 1290px;">
                     At Iynix Digital, our focus is simple: helping your business generate more revenue through smart,
-                    data-driven digital marketing services. Our digital marketing strategy focuses on three key stages
-                    of business growth.
+                    data-driven SEO. Our approach focuses on three key stages of organic growth. We don't just bring
+                    traffic - we bring the right traffic.
                 </p>
             </div>
 
@@ -791,19 +560,19 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="sr-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
                         <div class="sr-d-icon mb-6">
-                            <img src="homepage/images/services/Attract-the-Right-Audience.svg" alt="">
+                            <img src="assets/images/services/Attract-the-Right-Audience.svg" alt="">
                         </div>
 
                         <h5 class="fw-semibold mb-3">Attract the Right Audience</h5>
 
                         <ul class="sr-d-list ms-2 ps-3">
-                            <li class="p-xsm">SEO and search marketing</li>
-                            <li class="p-xsm">targeted advertising campaigns</li>
-                            <li class="p-xsm">content marketing strategies</li>
+                            <li class="p-xsm">Keyword research and search intent mapping</li>
+                            <li class="p-xsm">Technical and on-page SEO</li>
+                            <li class="p-xsm">SEO-driven content strategy</li>
                         </ul>
 
                         <div class="sr-d-img mt-3">
-                            <img src="homepage/images/services/SEO-and-search-marketing.png" alt="">
+                            <img src="assets/images/services/SEO-and-search-marketing.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -812,19 +581,19 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="sr-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
                         <div class="sr-d-icon mb-6">
-                            <img src="homepage/images/services/Convert-Visitors-Into-Leads.svg" alt="">
+                            <img src="assets/images/services/Convert-Visitors-Into-Leads.svg" alt="">
                         </div>
 
                         <h5 class="fw-semibold mb-3">Convert Visitors Into Leads</h5>
 
                         <ul class="sr-d-list ms-2 ps-3">
-                            <li class="p-xsm">optimized landing pages</li>
-                            <li class="p-xsm">compelling calls-to-action</li>
-                            <li class="p-xsm">conversion rate optimization</li>
+                            <li class="p-xsm">Conversion-optimized landing pages</li>
+                            <li class="p-xsm">Clear, compelling calls-to-action</li>
+                            <li class="p-xsm">On-site conversion rate optimization</li>
                         </ul>
 
                         <div class="sr-d-img mt-3">
-                            <img src="homepage/images/services/optimized-landing-pages.png" alt="">
+                            <img src="assets/images/services/optimized-landing-pages.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -833,19 +602,19 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="sr-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
                         <div class="sr-d-icon mb-6">
-                            <img src="homepage/images/services/Turn-Leads-Into-Customers.svg" alt="">
+                            <img src="assets/images/services/Turn-Leads-Into-Customers.svg" alt="">
                         </div>
 
                         <h5 class="fw-semibold mb-3">Turn Leads Into Customers</h5>
 
                         <ul class="sr-d-list ms-2 ps-3">
-                            <li class="p-xsm">email marketing automation</li>
-                            <li class="p-xsm">remarketing campaigns</li>
-                            <li class="p-xsm">customer engagement strategies</li>
+                            <li class="p-xsm">Ongoing content and authority building</li>
+                            <li class="p-xsm">Local and organic remarketing signals</li>
+                            <li class="p-xsm">Retention-focused engagement strategies</li>
                         </ul>
 
                         <div class="sr-d-img mt-3">
-                            <img src="homepage/images/services/email-marketing-automation.png" alt="">
+                            <img src="assets/images/services/email-marketing-automation.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -855,284 +624,165 @@
         </div>
     </section>
 
-    <style>
-        .sr-d-card {
-            border-radius: 20px;
-            border: 1px solid #D3D3D3;
-            background: #F4F4F4;
-        }
-
-        .sr-d-img img {
-            width: 100%;
-            border-radius: 13px;
-            height: 240px;
-            object-fit: cover;
-        }
-
-        /* RESPONSIVE */
-        @media (max-width: 767px) {
-            .sr-d-img img {
-                height: 200px;
-            }
-        }
-    </style>
 
 
     <!-- Revenues 2x-3x Times Sections End -->
 
 
+    <!-- Step-by-Step Framework SECTION -->
 
-    <!-- Testimonials Section -->
+    <section class="section-gap-top">
+        <div class="container">
+            <h3 class="fw-bold mb-5 text-center">
+                Our Step-by-Step <span class="text-crimson">Digital Marketing Framework</span>
+            </h3>
 
-
-    <!-- ===== REV SLIDER START ===== -->
-
-<section class="rev-slider-section section-gap">
-    <div class="container">
-
-            <h2 class="mb-3 fw-semibold text-black text-center">
-                What Our
-                <span class="text-crimson">Clients Say?</span>
-            </h2>
-
-            <p class="text-black text-center">
-                Reviews from our satisfied clients
-            </p>
-
-
-    <div class="rev-slider mt-5">
-
-        <button class="rev-arrow rev-prev">
-            <img src="homepage/images/services/slider-left.svg" alt="">
-        </button>
-        <button class="rev-arrow rev-next">
-            <img src="homepage/images/services/slider-right.svg" alt="">
-        </button>
-
-        <div class="rev-viewport">
-            <div class="rev-track">
-
-                <!-- CARDS -->
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">If you are looking for the best digital marketing services, look no further than iYnix Digital. They have a perfect 5.0 rating for a reason. They handled our website and marketing campaigns seamlessly, and the ROI has been fantastic. Highly recommend them to anyone looking to scale their brand
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Deepak Kumar</span>
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-step-card sr-step-active">
+                        <span class="sr-step-num">01</span>
+                        <h5 class="mb-2">Discovery & SEO Audit</h5>
+                        <p class="p-xsm mb-0">We audit your site, competitors, and keyword landscape to find
+                            exactly where you're losing traffic and rankings.</p>
+                    </div>
                 </div>
 
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">Iynix Digital is a results-driven digital marketing service providing SEO, website design, and website development solutions. The team focuses on delivering visually appealing, user-friendly, and high-performance digital experiences that help businesses grow online. With a strategic and professional approach, Iynix Digital ensures reliable and effective results tailored to client needs.
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Divya Gupta</span>
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-step-card">
+                        <span class="sr-step-num">02</span>
+                        <h5 class="mb-2">Strategy and Planning</h5>
+                        <p class="p-xsm mb-0">We build a prioritized roadmap of technical fixes, content, and
+                            link-building tailored to your goals and timeline.</p>
+                    </div>
                 </div>
 
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">iYnix Digital provided excellent digital and web development services. The team was professional, responsive, and delivered quality work on time. Communication was smooth throughout. Highly recommended for reliable digital solutions.
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Khushi Sahni</span>
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-step-card">
+                        <span class="sr-step-num">03</span>
+                        <h5 class="mb-2">On-Page & Technical Execution</h5>
+                        <p class="p-xsm mb-0">We implement the fixes, optimize content, and strengthen the
+                            technical foundation search engines rely on.</p>
+                    </div>
                 </div>
 
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">Excellent marketing agency to grow your brand digitally. We had a great experience working with them.</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Gunjan Nagpal</span>
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-step-card">
+                        <span class="sr-step-num">04</span>
+                        <h5 class="mb-2">Content & Authority Building</h5>
+                        <p class="p-xsm mb-0">We publish SEO-driven content and build quality backlinks that
+                            grow your site's authority over time.</p>
+                    </div>
                 </div>
 
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">I've had a great experience working with Iynix, They’re highly responsive, knowledgeable, and truly care about delivering results. My website looks amazing and their marketing strategies have helped me attract more customers. Highly recommend!
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Het Patel</span>
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-step-card">
+                        <span class="sr-step-num">05</span>
+                        <h5 class="mb-2">Tracking & Reporting</h5>
+                        <p class="p-xsm mb-0">Transparent monthly reporting on rankings, traffic, and leads, so
+                            you always know what's working.</p>
+                    </div>
                 </div>
 
-                <div class="rev-card">
-                    <img src="homepage/images/services/ratings.svg" alt="" class="mb-6">
-                    <p class="p-xsm mb-6 text-black">My experience with iYnix Digital was excellent. Their team is extremely skilled in digital solutions and website development, and their responses are also very professional and quick to respond. They delivered excellent work on schedule and had a clear understanding of my needs. Throughout the entire process, communication was seamless. Strongly advised for anyone searching for reliable internet services.
-</p>
-                    <span class="text-crimson p-sm fw-semibold">→ Akash Kumar</span>
+                <div class="col-lg-4 col-md-6">
+                    <div class="sr-step-card">
+                        <span class="sr-step-num">06</span>
+                        <h5 class="mb-2">Scaling & Optimization</h5>
+                        <p class="p-xsm mb-0">We double down on what's working and continuously refine the
+                            strategy as your business grows.</p>
+                    </div>
                 </div>
-
             </div>
         </div>
+    </section>
 
-    </div>
-</div>
+    <!-- Step-by-Step Framework SECTION End -->
 
-</section>
 
-<style>
-.rev-slider {
-    position: relative;
-    padding: 0 60px;
-}
+    <!-- Why Choose Us SECTION -->
 
-.rev-viewport {
-    overflow: hidden;
-    padding: 20px 0;
-}
+    <section class="section-gap-top">
+        <div class="container">
+            <div class="container d-flex align-items-center gap-0 align-items-stretch flex-sm-column-reverse flex-column-reverse flex-lg-row">
+                <div class="container bann-hf-text">
+                    <h2 class="mb-3 fw-semibold text-black">
+                        Why Choose Iynix Digital As Your <span class="text-crimson">SEO Marketing Company?</span></h2>
+                    <ul class="sr-b-checklist">
+                        <li><i class="bi bi-check-circle-fill"></i> Experienced SEO specialists, not generalists</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Fully customized strategies for your industry</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Transparent, no-jargon monthly reporting</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Data-driven decisions, not guesswork</li>
+                        <li><i class="bi bi-check-circle-fill"></i> Clear and measurable results</li>
+                    </ul>
+                </div>
+                <div class="container bann-hf-img p-0">
+                    <img src="assets/images/Still-Confused.png" class="img-fluid" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
 
-.rev-track {
-    display: flex;
-    gap: 20px;
-    transition: transform 0.5s ease;
-    will-change: transform;
-    padding: 10px 0;
-}
+    <!-- Why Choose Us SECTION End -->
 
-.rev-card {
-    flex: 0 0 calc((100% - 40px) / 3);
-    padding: 32px;
-    transition: transform 0.4s ease, background 0.3s ease, color 0.3s ease;
-    position: relative;
-    z-index: 1;
-    border-radius: 20px;
-    border: 1px solid #DEDEDE;
-    background: #FFF;
-    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
-}
 
-.rev-card img{
-    max-width: 180px;
-}
+    <!-- Advanced Tools SECTION -->
 
-.rev-card.is-active {
-    background: #F6F6F6;
-    transform: scale(1.1);
-    z-index: 3;
-}
+    <section class="sr-tools-section">
+        <div class="container text-center">
+            <h4 class="text-light fw-semibold mb-4">Advanced Tools <span class="text-crimson">We Use for SEO</span></h4>
+            <div class="d-flex flex-wrap gap-3 justify-content-center">
+                <span class="sr-tools-badge">SEMRush</span>
+                <span class="sr-tools-badge">Ahrefs</span>
+                <span class="sr-tools-badge">Screaming Frog</span>
+                <span class="sr-tools-badge">Google Search Console</span>
+                <span class="sr-tools-badge">ChatGPT</span>
+                <span class="sr-tools-badge">Perplexity</span>
+            </div>
+        </div>
+    </section>
 
-.rev-arrow {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 38px;
-    height: 38px;
-    border-radius: 8px;
-    border: 1px solid #DEDEDE;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
-    background: transparent;
-    z-index: 5;
-    cursor: pointer;
-}
-
-.rev-prev { left: -10px; }
-.rev-next { right: -10px; }
-
-@media (max-width: 991px) {
-    .rev-card {
-        flex: 0 0 calc((100% - 20px) / 2);
-    }
-
-    .rev-card.is-active {
-        transform: scale(1);
-    }
-}
-
-@media (max-width: 767px) {
-    .rev-slider {
-        padding: 0 10px;
-    }
-
-    .rev-card {
-        flex: 0 0 100%;
-    }
-}
-</style>
-
-<script>
-(function () {
-    const sliders = document.querySelectorAll('.rev-slider');
-
-    sliders.forEach((slider) => {
-
-        const track = slider.querySelector('.rev-track');
-        const prev = slider.querySelector('.rev-prev');
-        const next = slider.querySelector('.rev-next');
-
-        let cards = Array.from(track.children);
-
-        function getVisible() {
-            if (window.innerWidth < 768) return 1;
-            if (window.innerWidth < 992) return 2;
-            return 3;
-        }
-
-        let visible = getVisible();
-
-        // CLONE FOR LOOP (scoped per slider)
-        cards.slice(-visible).forEach(el => {
-            track.insertBefore(el.cloneNode(true), track.firstChild);
-        });
-
-        cards.slice(0, visible).forEach(el => {
-            track.appendChild(el.cloneNode(true));
-        });
-
-        let allCards = Array.from(track.children);
-        let index = visible;
-
-        function update() {
-            const gap = 20;
-            const cardWidth = allCards[0].getBoundingClientRect().width + gap;
-            track.style.transform = `translateX(-${index * cardWidth}px)`;
-
-            allCards.forEach(c => c.classList.remove('is-active'));
-
-            const center = index + Math.floor((getVisible() - 1) / 2);
-            if (allCards[center]) {
-                allCards[center].classList.add('is-active');
-            }
-        }
-
-        function nextSlide() {
-            index++;
-            track.style.transition = 'transform 0.5s ease';
-            update();
-
-            if (index >= allCards.length - visible) {
-                setTimeout(() => {
-                    track.style.transition = 'none';
-                    index = visible;
-                    update();
-                }, 500);
-            }
-        }
-
-        function prevSlide() {
-            index--;
-            track.style.transition = 'transform 0.5s ease';
-            update();
-
-            if (index <= 0) {
-                setTimeout(() => {
-                    track.style.transition = 'none';
-                    index = allCards.length - (visible * 2);
-                    update();
-                }, 500);
-            }
-        }
-
-        next.addEventListener('click', nextSlide);
-        prev.addEventListener('click', prevSlide);
-
-        window.addEventListener('resize', () => {
-            visible = getVisible();
-            update();
-        });
-
-        window.addEventListener('load', update);
-
-    });
-})();
-</script>
-
-<!-- ===== REV SLIDER END ===== -->
+    <!-- Advanced Tools SECTION End -->
 
 
 
+    <!-- Testimonials Section -->
+    <?php
+    $testimonials_heading = 'What Clients Say About Our SEO Services?';
+    include 'assets/include/testimonials.php';
+    unset($testimonials_heading);
+    ?>
     <!-- Testimonials Section End -->
+
+    <!-- FAQs Section -->
+    <?php
+    $faq_heading_pre = 'FAQs About ';
+    $faq_heading_hi = 'SEO Services';
+    $faq_items = [
+        [
+            'q' => 'How long does it take to see results from SEO?',
+            'a' => 'Most businesses start seeing measurable movement in rankings and traffic within 3-4 months, with stronger, compounding results by month 6-12. SEO is a long-term growth channel, not an overnight fix, but the gains are far more durable than paid ads.',
+        ],
+        [
+            'q' => 'What does your SEO service actually include?',
+            'a' => 'A full technical audit, on-page and content optimization, keyword research and mapping, link building, local SEO (if relevant), and monthly performance reporting - all tailored to your industry and goals.',
+        ],
+        [
+            'q' => 'Do you offer local SEO as well as national/global SEO?',
+            'a' => 'Yes. We run Google Business Profile optimization, local citations, and location-based content for businesses targeting a specific city or region, alongside broader national/international SEO campaigns.',
+        ],
+        [
+            'q' => 'How is your SEO pricing structured?',
+            'a' => 'Pricing depends on your website\'s current state, competition, and growth goals. We scope every engagement after a free audit so you only pay for the work your site actually needs.',
+        ],
+        [
+            'q' => 'Will I get visibility into what you\'re doing and the results?',
+            'a' => 'Yes - you get transparent monthly reports covering rankings, organic traffic, leads, and the specific work completed that month, plus direct access to your account manager.',
+        ],
+    ];
+    include 'assets/include/faq.php';
+    unset($faq_heading_pre, $faq_heading_hi, $faq_items);
+    ?>
+    <!-- FAQs Section End -->
+
 
 
 
@@ -1157,15 +807,6 @@
         </div>
     </div>
 
-    <style>
-        .modal {
-            z-index: 99999 !important;
-        }
-
-        .modal-backdrop {
-            z-index: 99998 !important;
-        }
-    </style>
 
 
     <!-- FORM POP_UP -->
@@ -1195,11 +836,11 @@
 
 
 
-    <script src="homepage/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="homepage/assets/js/main.js"></script>
+    <script src="assets/vendor/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/js/main.js"></script>
 
 
-    <?php include_once 'homepage/include/footer.php';?>
+    <?php include_once 'assets/include/footer.php';?>
 </body>
 
 </html>
