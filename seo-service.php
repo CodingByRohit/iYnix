@@ -9,6 +9,9 @@
         content="Tired of empty promises? We help US businesses get more leads & 2x-3x revenue growth through SEO, Google Ads & smart digital marketing.">
     <link href="assets/vendor/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/font-size.css">
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="stylesheet" href="assets/css/services.css">
@@ -103,49 +106,49 @@
                     Is Your Business Struggling to <br>
                     <span class="text-crimson">Get Traffic or Rank on Google?</span>
                 </h2>
-                <p class="fw-medium">If this is the case, you might be facing these challenges.</p>
+                <p class="fw-medium">If so, you might be facing issues like:</p>
             </div>
 
             <div class="row g-3 justify-content-center mt-5">
                 <div class="col-lg-4 col-md-6">
-                    <div class="ss-a-card">
-                        <span class="ss-a-number">1</span>
+                    <div class="ss-a-card h-100">
+                        <img src="assets/images/services/SEO/numbers/one-seo.svg" class="ss-a-number" alt="1">
                         <p class="fw-medium">Your website barely gets organic traffic</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="ss-a-card">
-                        <span class="ss-a-number">2</span>
-                        <p class="fw-medium">Competitors show up on Google search, but you don't</p>
+                    <div class="ss-a-card h-100">
+                        <img src="assets/images/services/SEO/numbers/two-seo.svg" class="ss-a-number" alt="2">
+                        <p class="fw-medium">Competitors show up on Google before you do</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="ss-a-card">
-                        <span class="ss-a-number">3</span>
-                        <p class="fw-medium">Your rankings dropped and it's unclear why</p>
+                    <div class="ss-a-card h-100">
+                        <img src="assets/images/services/SEO/numbers/three-seo.svg" class="ss-a-number" alt="3">
+                        <p class="fw-medium">Your site appears on page 2 or beyond</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="ss-a-card">
-                        <span class="ss-a-number">4</span>
-                        <p class="fw-medium">You get visitors, but not real leads</p>
+                    <div class="ss-a-card h-100">
+                        <img src="assets/images/services/SEO/numbers/four-seo.svg" class="ss-a-number" alt="4">
+                        <p class="fw-medium">You get visitors, but no actual leads</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="ss-a-card">
-                        <span class="ss-a-number">5</span>
-                        <p class="fw-medium">SEO feels confusing or overly technical</p>
+                    <div class="ss-a-card h-100">
+                        <img src="assets/images/services/SEO/numbers/five-seo.svg" class="ss-a-number" alt="5">
+                        <p class="fw-medium">SEO feels confusing or time-consuming</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="ss-a-card">
-                        <span class="ss-a-number">6</span>
-                        <p class="fw-medium">You've tried SEO before but saw no real results</p>
+                    <div class="ss-a-card h-100">
+                        <img src="assets/images/services/SEO/numbers/six-seo.svg" class="ss-a-number" alt="6">
+                        <p class="fw-medium">You've tried things, but nothing seems to work</p>
                     </div>
                 </div>
             </div>
