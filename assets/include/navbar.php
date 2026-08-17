@@ -380,7 +380,7 @@
                     </li>
 
                     <li class="nav-item nav-services">
-                        <a class="nav-link" href="services.php">
+                        <a class="nav-link" href="seo-service.php">
         <span>Services</span>
         <span class="nav-arrow">
             <svg viewBox="0 0 24 24" width="16" height="16">
@@ -395,7 +395,7 @@
                                 <div class="nav-col">
                                     <h6><i class="bi bi-graph-up-arrow"></i>Digital Marketing</h6>
                                     <ul>
-                                        <li><a href="services.php" class="p-xsm">SEO</a></li>
+                                        <li><a href="seo-service.php" class="p-xsm">SEO</a></li>
                                         <li><a href="#" class="p-xsm">SEO Audit</a></li>
                                         <li><a href="#" class="p-xsm">Local SEO Services</a></li>
                                         <li><a href="#" class="p-xsm">Page Speed Optimization</a></li>

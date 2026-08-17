@@ -18,7 +18,7 @@ This is the iYnix project repository. It contains web application files organize
 ```
 iYnix/
 ├── index.php
-├── services.php
+├── seo-service.php
 ├── README.md
 └── assets/
     ├── vendor/

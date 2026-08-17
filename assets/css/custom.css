@@ -1258,17 +1258,17 @@
 
 /* Business Goals section End */
 /* ================================================================
-   services.php — SEO Service Page
+   seo-service.php — SEO Service Page
    All custom (non-Bootstrap) CSS for this page lives here, not in
    inline <style> blocks in the page itself.
    ================================================================ */
 
-/* Stats bar (sr-stats-section) */
-.sr-stats-section {
+/* Stats bar (ss-stats-section) */
+.ss-stats-section {
     background: #FDFDFD;
 }
 
-.sr-stats-wrap {
+.ss-stats-wrap {
     background: #F4F4F4;
     border: 1px solid #D3D3D3;
     border-radius: 20px;
@@ -1276,14 +1276,14 @@
     margin: 0 auto;
 }
 
-.sr-stat-item {
+.ss-stat-item {
     text-align: center;
     padding: 60px;
     position: relative;
 }
 
 /* Vertical divider lines for desktop */
-.sr-stat-item::after {
+.ss-stat-item::after {
     content: "";
     position: absolute;
     top: 18px;
@@ -1294,18 +1294,18 @@
 }
 
 /* Remove divider from last item */
-.col-md-3:last-child .sr-stat-item::after {
+.col-md-3:last-child .ss-stat-item::after {
     display: none;
 }
 
-.sr-stat-item h2 {
+.ss-stat-item h2 {
     font-weight: 700;
     color: #D81F28;
     margin-bottom: 30px;
     line-height: 1;
 }
 
-.sr-stat-item p {
+.ss-stat-item p {
     font-weight: 600;
     color: #000000;
     margin: 0;
@@ -1313,12 +1313,12 @@
 }
 
 @media (max-width: 767px) {
-    .sr-stat-item {
+    .ss-stat-item {
         padding: 20px 15px;
     }
 
     /* Change line direction to horizontal */
-    .sr-stat-item::after {
+    .ss-stat-item::after {
         top: auto;
         bottom: 0;
         right: auto;
@@ -1327,13 +1327,13 @@
         height: 1px;
     }
 
-    .col-12:last-child .sr-stat-item::after {
+    .col-12:last-child .ss-stat-item::after {
         display: none;
     }
 }
 
-/* "Is Your Business Struggling" pain-point cards (sr-a) */
-.sr-a-card {
+/* "Is Your Business Struggling" pain-point cards (ss-a) */
+.ss-a-card {
     background: #fff;
     border: 1px solid #d3d3d3;
     border-radius: 20px;
@@ -1346,7 +1346,7 @@
     justify-content: center;
 }
 
-.sr-a-number {
+.ss-a-number {
     width: 34px;
     height: 34px;
     border: 1px dotted #e53935;
@@ -1361,42 +1361,42 @@
     transition: all 0.35s ease;
 }
 
-.sr-a-card p {
+.ss-a-card p {
     transition: all 0.35s ease;
 }
 
-.sr-a-active {
+.ss-a-active {
     background: #000;
 }
 
-.sr-a-active p {
+.ss-a-active p {
     color: #fff;
 }
 
-.sr-a-active .sr-a-number {
+.ss-a-active .ss-a-number {
     border-color: #D81F28;
     color: #D81F28;
 }
 
-.sr-a-card:hover {
+.ss-a-card:hover {
     background: #000;
     transform: translateY(-3px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
 }
 
-.sr-a-card:hover p {
+.ss-a-card:hover p {
     color: #fff;
 }
 
 @media (max-width: 767px) {
-    .sr-a-card {
+    .ss-a-card {
         min-height: auto;
         padding: 18px 16px;
     }
 }
 
-/* "Ready to Improve Rankings" CTA banner (sr-cta) */
-.sr-cta-box {
+/* "Ready to Improve Rankings" CTA banner (ss-cta) */
+.ss-cta-box {
     background: #FFF5F5;
     border: 1px solid #F3B9BB;
     border-radius: 20px;
@@ -1404,58 +1404,58 @@
 }
 
 @media (max-width: 767px) {
-    .sr-cta-box {
+    .ss-cta-box {
         padding: 40px 20px;
     }
 }
 
-/* "Our Performance Metrics" cards (sr-metric) */
-.sr-metric-card {
+/* "Our Performance Metrics" cards (ss-metric) */
+.ss-metric-card {
     border-radius: 20px;
     padding: 40px 32px;
     height: 100%;
     text-align: center;
 }
 
-.sr-metric-card.sbg-gray {
+.ss-metric-card.sbg-gray {
     background: #F4F4F4;
     border: 1px solid #D3D3D3;
 }
 
-.sr-metric-card.sr-metric-dark {
+.ss-metric-card.ss-metric-dark {
     background: #000;
 }
 
-.sr-metric-card h3 {
+.ss-metric-card h3 {
     font-weight: 700;
     margin-bottom: 8px;
 }
 
-.sr-metric-card.sbg-gray h3 {
+.ss-metric-card.sbg-gray h3 {
     color: #D81F28;
 }
 
-.sr-metric-card.sr-metric-dark h3 {
+.ss-metric-card.ss-metric-dark h3 {
     color: #fff;
     font-size: 2.5rem;
 }
 
-.sr-metric-card p {
+.ss-metric-card p {
     margin: 0;
     font-weight: 600;
 }
 
-.sr-metric-card.sr-metric-dark p {
+.ss-metric-card.ss-metric-dark p {
     color: #B3B3B3;
 }
 
-.sr-metric-spark {
+.ss-metric-spark {
     display: block;
     margin: 20px auto 0;
 }
 
-/* "Why Does Your Business Need SEO" checklist (sr-b) */
-.sr-b-checklist {
+/* "Why Does Your Business Need SEO" checklist (ss-b) */
+.ss-b-checklist {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -1464,7 +1464,7 @@
     gap: 14px 20px;
 }
 
-.sr-b-checklist li {
+.ss-b-checklist li {
     display: flex;
     align-items: flex-start;
     gap: 10px;
@@ -1472,31 +1472,31 @@
     font-weight: 500;
 }
 
-.sr-b-checklist li i {
+.ss-b-checklist li i {
     color: #D81F28;
     margin-top: 3px;
     flex-shrink: 0;
 }
 
 @media (max-width: 767px) {
-    .sr-b-checklist {
+    .ss-b-checklist {
         grid-template-columns: 1fr;
     }
 }
 
-/* "A 360° Approach to SEO Services" carousel (sr-c) */
-.sr-c-slider {
+/* "A 360° Approach to SEO Services" carousel (ss-c) */
+.ss-c-slider {
     position: relative;
     padding: 0 60px;
     /* space for arrows */
 }
 
-.sr-c-viewport {
+.ss-c-viewport {
     overflow: hidden;
     padding: 20px 0;
 }
 
-.sr-c-track {
+.ss-c-track {
     display: flex;
     gap: 20px;
     transition: transform 0.5s ease;
@@ -1505,7 +1505,7 @@
     /* creates space for scaled card */
 }
 
-.sr-c-card {
+.ss-c-card {
     flex: 0 0 calc((100% - 40px) / 3);
     padding: 32px;
     transition: transform 0.4s ease, background 0.3s ease, color 0.3s ease;
@@ -1517,14 +1517,14 @@
     box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.06);
 }
 
-.sr-c-card.is-active {
+.ss-c-card.is-active {
     background: #000;
     color: #fff;
     transform: scale(1.12);
     z-index: 3;
 }
 
-.sr-c-arrow {
+.ss-c-arrow {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -1538,42 +1538,42 @@
     cursor: pointer;
 }
 
-.sr-c-prev {
+.ss-c-prev {
     left: -10px;
 }
 
-.sr-c-next {
+.ss-c-next {
     right: -10px;
 }
 
 @media (max-width: 991px) {
-    .sr-c-card {
+    .ss-c-card {
         flex: 0 0 calc((100% - 20px) / 2);
     }
 
-    .sr-c-card.is-active {
+    .ss-c-card.is-active {
         transform: scale(1);
     }
 }
 
 @media (max-width: 767px) {
-    .sr-c-slider {
+    .ss-c-slider {
         padding: 0 10px;
     }
 
-    .sr-c-card {
+    .ss-c-card {
         flex: 0 0 100%;
     }
 }
 
-/* "Grow 2-3X With SEO" cards (sr-d) */
-.sr-d-card {
+/* "Grow 2-3X With SEO" cards (ss-d) */
+.ss-d-card {
     border-radius: 20px;
     border: 1px solid #D3D3D3;
     background: #F4F4F4;
 }
 
-.sr-d-img img {
+.ss-d-img img {
     width: 100%;
     border-radius: 13px;
     height: 240px;
@@ -1581,13 +1581,13 @@
 }
 
 @media (max-width: 767px) {
-    .sr-d-img img {
+    .ss-d-img img {
         height: 200px;
     }
 }
 
-/* Step-by-Step Framework cards (sr-step) */
-.sr-step-card {
+/* Step-by-Step Framework cards (ss-step) */
+.ss-step-card {
     border-radius: 20px;
     border: 1px solid #D3D3D3;
     background: #F4F4F4;
@@ -1595,12 +1595,12 @@
     height: 100%;
 }
 
-.sr-step-card.sr-step-active {
+.ss-step-card.ss-step-active {
     background: #000;
     border-color: #000;
 }
 
-.sr-step-num {
+.ss-step-num {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -1614,28 +1614,28 @@
     color: #D81F28;
 }
 
-.sr-step-active .sr-step-num {
+.ss-step-active .ss-step-num {
     background: #D81F28;
     border-color: #D81F28;
     color: #fff;
 }
 
-.sr-step-card h5 {
+.ss-step-card h5 {
     font-weight: 700;
 }
 
-.sr-step-active h5,
-.sr-step-active p {
+.ss-step-active h5,
+.ss-step-active p {
     color: #fff;
 }
 
-/* "Advanced Tools We Use for SEO" bar (sr-tools) */
-.sr-tools-section {
+/* "Advanced Tools We Use for SEO" bar (ss-tools) */
+.ss-tools-section {
     background: #000;
     padding: 56px 0;
 }
 
-.sr-tools-badge {
+.ss-tools-badge {
     background: #fff;
     border-radius: 12px;
     padding: 14px 28px;
@@ -1647,7 +1647,7 @@
 }
 
 /* ===== Lead-form / calendar modals ===== */
-/* Shared by index.php and services.php — both include the same modal
+/* Shared by index.php and seo-service.php — both include the same modal
    markup, so this only needs to be defined once. */
 .modal {
     z-index: 99999 !important;

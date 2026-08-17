@@ -49,33 +49,33 @@
     </section>
 
     <!-- Stats section -->
-    <section class="sr-stats-section section-gap">
+    <section class="ss-stats-section section-gap">
         <div class="container">
-            <div class="sr-stats-wrap">
+            <div class="ss-stats-wrap">
                 <div class="row g-0">
                     <div class="col-md-3 col-12">
-                        <div class="sr-stat-item">
+                        <div class="ss-stat-item">
                             <h2>500+</h2>
                             <p>SEO campaigns managed</p>
                         </div>
                     </div>
 
                     <div class="col-md-3 col-12">
-                        <div class="sr-stat-item">
+                        <div class="ss-stat-item">
                             <h2>95M+</h2>
                             <p>Organic visitors driven</p>
                         </div>
                     </div>
 
                     <div class="col-md-3 col-12">
-                        <div class="sr-stat-item">
+                        <div class="ss-stat-item">
                             <h2>1.2M+</h2>
                             <p>Organic conversions generated</p>
                         </div>
                     </div>
 
                     <div class="col-md-3 col-12">
-                        <div class="sr-stat-item">
+                        <div class="ss-stat-item">
                             <h2>98%</h2>
                             <p>Client satisfaction rate</p>
                         </div>
@@ -100,7 +100,7 @@
 
     <section class="section-gap">
         <div class="container">
-            <div class="sr-a-heading text-center">
+            <div class="ss-a-heading text-center">
                 <h2 class="fw-semibold">
                     Is Your Business Struggling to <br>
                     <span class="text-crimson">Get Traffic or Rank on Google?</span>
@@ -110,49 +110,49 @@
 
             <div class="row g-3 justify-content-center mt-5">
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-a-card">
-                        <span class="sr-a-number">1</span>
+                    <div class="ss-a-card">
+                        <span class="ss-a-number">1</span>
                         <p class="fw-medium">Your website barely gets organic traffic</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-a-card">
-                        <span class="sr-a-number">2</span>
+                    <div class="ss-a-card">
+                        <span class="ss-a-number">2</span>
                         <p class="fw-medium">Competitors show up on Google search, but you don't</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-a-card">
-                        <span class="sr-a-number">3</span>
+                    <div class="ss-a-card">
+                        <span class="ss-a-number">3</span>
                         <p class="fw-medium">Your rankings dropped and it's unclear why</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-a-card">
-                        <span class="sr-a-number">4</span>
+                    <div class="ss-a-card">
+                        <span class="ss-a-number">4</span>
                         <p class="fw-medium">You get visitors, but not real leads</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-a-card">
-                        <span class="sr-a-number">5</span>
+                    <div class="ss-a-card">
+                        <span class="ss-a-number">5</span>
                         <p class="fw-medium">SEO feels confusing or overly technical</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-a-card">
-                        <span class="sr-a-number">6</span>
+                    <div class="ss-a-card">
+                        <span class="ss-a-number">6</span>
                         <p class="fw-medium">You've tried SEO before but saw no real results</p>
                     </div>
                 </div>
             </div>
 
-            <div class="sr-a-bottom-text text-center mt-5">
+            <div class="ss-a-bottom-text text-center mt-5">
                 <p class="fw-bold">
                     Are we correct?
                     <span class="text-crimson">If yes, then we're here to fix it.</span>
@@ -169,7 +169,7 @@
 
     <section class="section-gap-bottom">
         <div class="container">
-            <div class="sr-cta-box text-center">
+            <div class="ss-cta-box text-center">
                 <h2 class="fw-semibold mb-3">
                     So, Are You Ready to Improve Your <br>
                     <span class="text-crimson">Rankings and Grow Your Business?</span>
@@ -227,27 +227,27 @@
 
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-metric-card sbg-gray">
+                    <div class="ss-metric-card sbg-gray">
                         <h3>95,000,000+</h3>
                         <p>Organic Website Visitors Driven</p>
-                        <svg class="sr-metric-spark" width="180" height="48" viewBox="0 0 180 48" fill="none">
+                        <svg class="ss-metric-spark" width="180" height="48" viewBox="0 0 180 48" fill="none">
                             <polyline points="0,38 25,30 50,34 75,18 100,24 125,10 150,16 180,4" stroke="#D81F28" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
                         </svg>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-metric-card sr-metric-dark">
+                    <div class="ss-metric-card ss-metric-dark">
                         <h3>1,200,000+</h3>
                         <p>Conversions Generated</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-12">
-                    <div class="sr-metric-card sbg-gray">
+                    <div class="ss-metric-card sbg-gray">
                         <h3>500+</h3>
                         <p>Successful SEO Campaigns Managed</p>
-                        <svg class="sr-metric-spark" width="180" height="48" viewBox="0 0 180 48" fill="none">
+                        <svg class="ss-metric-spark" width="180" height="48" viewBox="0 0 180 48" fill="none">
                             <polyline points="0,30 25,34 50,20 75,26 100,12 125,18 150,6 180,14" stroke="#D81F28" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
                         </svg>
                     </div>
@@ -260,7 +260,7 @@
 
     <!-- Why You Need SEO Section -->
 
-    <section class="sr-b-why-section section-gap">
+    <section class="ss-b-why-section section-gap">
         <div class="container">
             <div class="container d-flex align-items-center gap-0 align-items-stretch flex-sm-column flex-column flex-lg-row">
 
@@ -274,7 +274,7 @@
                         Businesses that invest in SEO gain a lasting competitive advantage by showing up exactly
                         when customers are searching for solutions, without paying for every single click.
                     </p>
-                    <ul class="sr-b-checklist">
+                    <ul class="ss-b-checklist">
                         <li><i class="bi bi-check-circle-fill"></i> Increase targeted organic website traffic</li>
                         <li><i class="bi bi-check-circle-fill"></i> Reach the right audience faster</li>
                         <li><i class="bi bi-check-circle-fill"></i> Drive consistent, compounding growth</li>
@@ -376,7 +376,7 @@
 
 
 
-    <section class="sr-c-slider-section section-gap-top">
+    <section class="ss-c-slider-section section-gap-top">
         <div class="container">
 
             <h3 class="fw-bold mb-2 text-center">
@@ -384,20 +384,20 @@
                 <span class="text-crimson">SEO Services</span>
             </h3>
 
-            <div class="sr-c-slider mt-5">
+            <div class="ss-c-slider mt-5">
 
                 <!-- ARROWS -->
-                <button class="sr-c-arrow sr-c-prev"><img src="assets/images/services/slider-left.svg"
+                <button class="ss-c-arrow ss-c-prev"><img src="assets/images/services/slider-left.svg"
                         alt=""></button>
-                <button class="sr-c-arrow sr-c-next"><img src="assets/images/services/slider-right.svg"
+                <button class="ss-c-arrow ss-c-next"><img src="assets/images/services/slider-right.svg"
                         alt=""></button>
 
                 <!-- VIEWPORT -->
-                <div class="sr-c-viewport">
-                    <div class="sr-c-track">
+                <div class="ss-c-viewport">
+                    <div class="ss-c-track">
 
                         <!-- CARDS -->
-                        <div class="sr-c-card">
+                        <div class="ss-c-card">
                             <img src="assets/images/icons/Search-Engine.svg" alt="" class="mb-6">
                             <h5 class="mb-3">Technical SEO</h5>
                             <p class="p-xsm mb-6">We fix crawlability, site speed, indexing, and Core Web Vitals
@@ -405,7 +405,7 @@
                             <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
-                        <div class="sr-c-card">
+                        <div class="ss-c-card">
                             <img src="assets/images/services/SEO-Services.svg" alt="" class="mb-6">
                             <h5 class="mb-3">On-Page SEO</h5>
                             <p class="p-xsm mb-6">Keyword-mapped titles, meta tags, headings, and internal linking
@@ -413,7 +413,7 @@
                             <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
-                        <div class="sr-c-card">
+                        <div class="ss-c-card">
                             <img src="assets/images/icons/Digital-Marketing.svg" alt="" class="mb-6">
                             <h5 class="mb-3">Content Strategy</h5>
                             <p class="p-xsm mb-6">SEO-driven content that answers real search intent, builds
@@ -421,7 +421,7 @@
                             <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
-                        <div class="sr-c-card">
+                        <div class="ss-c-card">
                             <img src="assets/images/services/SEO-Audit.svg" alt="" class="mb-6">
                             <h5 class="mb-3">Off-Page SEO &amp; Link Building</h5>
                             <p class="p-xsm mb-6">We build genuine authority through quality backlinks, digital
@@ -429,7 +429,7 @@
                             <span class="text-crimson p-sm fw-semibold">Learn More &rarr;</span>
                         </div>
 
-                        <div class="sr-c-card">
+                        <div class="ss-c-card">
                             <img src="assets/images/services/Local-SEO-Service.svg" alt="" class="mb-6">
                             <h5 class="mb-3">Local SEO</h5>
                             <p class="p-xsm mb-6">Google Business Profile optimization, local citations, and
@@ -448,12 +448,12 @@
 
     <script>
         (function () {
-            const slider = document.querySelector('.sr-c-slider');
+            const slider = document.querySelector('.ss-c-slider');
             if (!slider) return;
 
-            const track = slider.querySelector('.sr-c-track');
-            const prev = slider.querySelector('.sr-c-prev');
-            const next = slider.querySelector('.sr-c-next');
+            const track = slider.querySelector('.ss-c-track');
+            const prev = slider.querySelector('.ss-c-prev');
+            const next = slider.querySelector('.ss-c-next');
 
             let cards = Array.from(track.children);
 
@@ -537,7 +537,7 @@
     <!-- Revenues 2x-3x Times Sections -->
 
 
-    <section class="sr-d-section  section-gap">
+    <section class="ss-d-section  section-gap">
         <div class="container">
 
             <!-- Heading -->
@@ -558,20 +558,20 @@
 
                 <!-- Card 1 -->
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
-                        <div class="sr-d-icon mb-6">
+                    <div class="ss-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
+                        <div class="ss-d-icon mb-6">
                             <img src="assets/images/services/Attract-the-Right-Audience.svg" alt="">
                         </div>
 
                         <h5 class="fw-semibold mb-3">Attract the Right Audience</h5>
 
-                        <ul class="sr-d-list ms-2 ps-3">
+                        <ul class="ss-d-list ms-2 ps-3">
                             <li class="p-xsm">Keyword research and search intent mapping</li>
                             <li class="p-xsm">Technical and on-page SEO</li>
                             <li class="p-xsm">SEO-driven content strategy</li>
                         </ul>
 
-                        <div class="sr-d-img mt-3">
+                        <div class="ss-d-img mt-3">
                             <img src="assets/images/services/SEO-and-search-marketing.png" alt="">
                         </div>
                     </div>
@@ -579,20 +579,20 @@
 
                 <!-- Card 2 -->
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
-                        <div class="sr-d-icon mb-6">
+                    <div class="ss-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
+                        <div class="ss-d-icon mb-6">
                             <img src="assets/images/services/Convert-Visitors-Into-Leads.svg" alt="">
                         </div>
 
                         <h5 class="fw-semibold mb-3">Convert Visitors Into Leads</h5>
 
-                        <ul class="sr-d-list ms-2 ps-3">
+                        <ul class="ss-d-list ms-2 ps-3">
                             <li class="p-xsm">Conversion-optimized landing pages</li>
                             <li class="p-xsm">Clear, compelling calls-to-action</li>
                             <li class="p-xsm">On-site conversion rate optimization</li>
                         </ul>
 
-                        <div class="sr-d-img mt-3">
+                        <div class="ss-d-img mt-3">
                             <img src="assets/images/services/optimized-landing-pages.png" alt="">
                         </div>
                     </div>
@@ -600,20 +600,20 @@
 
                 <!-- Card 3 -->
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
-                        <div class="sr-d-icon mb-6">
+                    <div class="ss-d-card h-100 p-3 p-md-3 p-lg-6 d-flex flex-column">
+                        <div class="ss-d-icon mb-6">
                             <img src="assets/images/services/Turn-Leads-Into-Customers.svg" alt="">
                         </div>
 
                         <h5 class="fw-semibold mb-3">Turn Leads Into Customers</h5>
 
-                        <ul class="sr-d-list ms-2 ps-3">
+                        <ul class="ss-d-list ms-2 ps-3">
                             <li class="p-xsm">Ongoing content and authority building</li>
                             <li class="p-xsm">Local and organic remarketing signals</li>
                             <li class="p-xsm">Retention-focused engagement strategies</li>
                         </ul>
 
-                        <div class="sr-d-img mt-3">
+                        <div class="ss-d-img mt-3">
                             <img src="assets/images/services/email-marketing-automation.png" alt="">
                         </div>
                     </div>
@@ -639,8 +639,8 @@
 
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-step-card sr-step-active">
-                        <span class="sr-step-num">01</span>
+                    <div class="ss-step-card ss-step-active">
+                        <span class="ss-step-num">01</span>
                         <h5 class="mb-2">Discovery & SEO Audit</h5>
                         <p class="p-xsm mb-0">We audit your site, competitors, and keyword landscape to find
                             exactly where you're losing traffic and rankings.</p>
@@ -648,8 +648,8 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-step-card">
-                        <span class="sr-step-num">02</span>
+                    <div class="ss-step-card">
+                        <span class="ss-step-num">02</span>
                         <h5 class="mb-2">Strategy and Planning</h5>
                         <p class="p-xsm mb-0">We build a prioritized roadmap of technical fixes, content, and
                             link-building tailored to your goals and timeline.</p>
@@ -657,8 +657,8 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-step-card">
-                        <span class="sr-step-num">03</span>
+                    <div class="ss-step-card">
+                        <span class="ss-step-num">03</span>
                         <h5 class="mb-2">On-Page & Technical Execution</h5>
                         <p class="p-xsm mb-0">We implement the fixes, optimize content, and strengthen the
                             technical foundation search engines rely on.</p>
@@ -666,8 +666,8 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-step-card">
-                        <span class="sr-step-num">04</span>
+                    <div class="ss-step-card">
+                        <span class="ss-step-num">04</span>
                         <h5 class="mb-2">Content & Authority Building</h5>
                         <p class="p-xsm mb-0">We publish SEO-driven content and build quality backlinks that
                             grow your site's authority over time.</p>
@@ -675,8 +675,8 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-step-card">
-                        <span class="sr-step-num">05</span>
+                    <div class="ss-step-card">
+                        <span class="ss-step-num">05</span>
                         <h5 class="mb-2">Tracking & Reporting</h5>
                         <p class="p-xsm mb-0">Transparent monthly reporting on rankings, traffic, and leads, so
                             you always know what's working.</p>
@@ -684,8 +684,8 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6">
-                    <div class="sr-step-card">
-                        <span class="sr-step-num">06</span>
+                    <div class="ss-step-card">
+                        <span class="ss-step-num">06</span>
                         <h5 class="mb-2">Scaling & Optimization</h5>
                         <p class="p-xsm mb-0">We double down on what's working and continuously refine the
                             strategy as your business grows.</p>
@@ -706,7 +706,7 @@
                 <div class="container bann-hf-text">
                     <h2 class="mb-3 fw-semibold text-black">
                         Why Choose Iynix Digital As Your <span class="text-crimson">SEO Marketing Company?</span></h2>
-                    <ul class="sr-b-checklist">
+                    <ul class="ss-b-checklist">
                         <li><i class="bi bi-check-circle-fill"></i> Experienced SEO specialists, not generalists</li>
                         <li><i class="bi bi-check-circle-fill"></i> Fully customized strategies for your industry</li>
                         <li><i class="bi bi-check-circle-fill"></i> Transparent, no-jargon monthly reporting</li>
@@ -726,16 +726,16 @@
 
     <!-- Advanced Tools SECTION -->
 
-    <section class="sr-tools-section">
+    <section class="ss-tools-section">
         <div class="container text-center">
             <h4 class="text-light fw-semibold mb-4">Advanced Tools <span class="text-crimson">We Use for SEO</span></h4>
             <div class="d-flex flex-wrap gap-3 justify-content-center">
-                <span class="sr-tools-badge">SEMRush</span>
-                <span class="sr-tools-badge">Ahrefs</span>
-                <span class="sr-tools-badge">Screaming Frog</span>
-                <span class="sr-tools-badge">Google Search Console</span>
-                <span class="sr-tools-badge">ChatGPT</span>
-                <span class="sr-tools-badge">Perplexity</span>
+                <span class="ss-tools-badge">SEMRush</span>
+                <span class="ss-tools-badge">Ahrefs</span>
+                <span class="ss-tools-badge">Screaming Frog</span>
+                <span class="ss-tools-badge">Google Search Console</span>
+                <span class="ss-tools-badge">ChatGPT</span>
+                <span class="ss-tools-badge">Perplexity</span>
             </div>
         </div>
     </section>

@@ -294,7 +294,7 @@
             </div>
 
             <!-- CTA -->
-            <!-- <a href="services.php"><button class="btn btn-secondary mt-5 mt-md-4">Get a Free Marketing
+            <!-- <a href="seo-service.php"><button class="btn btn-secondary mt-5 mt-md-4">Get a Free Marketing
                         Audit!</button></a> -->
             <button class="btn btn-secondary mt-5" data-bs-toggle="modal" data-bs-target="#hsFormModal"
                 style="width: fit-content;">
@@ -683,7 +683,7 @@
                     </p>
 
                     <!-- CTA -->
-                    <!-- <a href="services.php"><button class="btn btn-secondary mt-5 mt-md-4">Get Your Free
+                    <!-- <a href="seo-service.php"><button class="btn btn-secondary mt-5 mt-md-4">Get Your Free
                                 Marketing Audit</button></a> -->
                     <button class="btn btn-secondary mt-5" data-bs-toggle="modal" data-bs-target="#hsFormModal"
                         style="width: fit-content;">
